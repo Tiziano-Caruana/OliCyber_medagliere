@@ -1,11 +1,7 @@
-# Get data from json files
-
 import json
 import os
 
 edizioni = ["2021", "2022"]
-
-# Take data from json files and build a list of participants without duplicates
 participants = []
 
 for edizione in edizioni:
@@ -15,10 +11,8 @@ for edizione in edizioni:
     for participant in json_data:
         participants.append(participant)
 
-# Remove duplicates
 participants = list({v['nome']+v['cognome']:v for v in participants}.values())
 
-# Write data to file
 result = ""
 
 for participant in participants:
@@ -27,7 +21,6 @@ for participant in participants:
 with open(f'../data/participants.csv', 'w') as f:
     f.write(result)
 
-# Build json data
 json_data = []
 
 for participant in participants:
@@ -39,7 +32,6 @@ for participant in participants:
         "provincia": participant['provincia']
     })
 
-# Write json data to file
 with open(f'../data/participants.json', 'w') as f:
     json.dump(json_data, f, indent=1)
 

@@ -1,5 +1,3 @@
-# Build json data from spreadsheet
-
 import csv
 import json
 
@@ -10,7 +8,6 @@ for edizione in edizioni:
         reader = csv.reader(f)
         data = list(reader)
 
-    # Build json data
     json_data = []
 
     for row in data:
@@ -25,6 +22,5 @@ for edizione in edizioni:
             "anno": row[7].strip()
         })
 
-    # Write json data to file
     with open(f'../data/{edizione}/graduatoria.json', 'w') as f:
         json.dump(json_data, f, indent=1)

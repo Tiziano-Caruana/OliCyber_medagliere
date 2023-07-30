@@ -14,7 +14,6 @@ for edizione in edizioni:
         if(i == 40):
             break
         partecipante = []
-        #Se tra i primi 40 indici e non è già presente salva il partecipante
         if participant['cognome'] not in aux:
             partecipante.append(participant['nome'])
             partecipante.append(participant['cognome'])
@@ -33,6 +32,5 @@ for edizione in edizioni:
                 elif i < 40:
                     medagliere[i2][4] = medagliere[i2][4] + 1
 
-# Write json data to file
 with open(f'../data/medagliere.json', 'w') as f:
     json.dump(medagliere, f, indent=1)
