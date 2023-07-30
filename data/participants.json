@@ -9,7 +9,7 @@
  {
   "nome": "Tito",
   "cognome": "Sacchi",
-  "scuola": "Istituto Superiore Taramelli - Foscolo",
+  "scuola": "Istituto Superiore \u201cTaramelli - Foscolo",
   "comune": "PAVIA",
   "provincia": "PAVIA"
  },
@@ -281,7 +281,7 @@
  },
  {
   "nome": "Lorenzo",
-  "cognome": "Frohmüller",
+  "cognome": "Frohm\u00fcller",
   "scuola": "Liceo Orazio Grassi",
   "comune": "SAVONA",
   "provincia": "SAVONA"
@@ -870,7 +870,7 @@
  {
   "nome": "Giuseppe",
   "cognome": "Pasquariello",
-  "scuola": "Liceo Scientifico Carlo Pisacane",
+  "scuola": "Liceo Scientifico \u201cCarlo Pisacane",
   "comune": "PADULA",
   "provincia": "SALERNO"
  },
@@ -1080,7 +1080,7 @@
  {
   "nome": "Anthony",
   "cognome": "Gerardo",
-  "scuola": "Liceo Scientifico Carlo Pisacane",
+  "scuola": "Liceo Scientifico \u201cCarlo Pisacane",
   "comune": "PADULA",
   "provincia": "SALERNO"
  },
@@ -1157,7 +1157,7 @@
  {
   "nome": "Andrea",
   "cognome": "Leone",
-  "scuola": "Istituto Istruzione Superiore E. Fermi Guttuso",
+  "scuola": "Istituto Istruzione Superiore E. Fermi \u2013 Guttuso",
   "comune": "GIARRE",
   "provincia": "CATANIA"
  },
