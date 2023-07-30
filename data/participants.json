@@ -1,0 +1,1374 @@
+[
+ {
+  "nome": "Carlo",
+  "cognome": "Collodel",
+  "scuola": "Istituto Superiore Antonio Scarpa",
+  "comune": "MOTTA DI LIVENZA",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Tito",
+  "cognome": "Sacchi",
+  "scuola": "Istituto Superiore Taramelli - Foscolo",
+  "comune": "PAVIA",
+  "provincia": "PAVIA"
+ },
+ {
+  "nome": "Luca",
+  "cognome": "Palumbo",
+  "scuola": "IM STATALE LORENZINI",
+  "comune": "PESCIA",
+  "provincia": "PISTOIA"
+ },
+ {
+  "nome": "Eyad",
+  "cognome": "Lorenzo",
+  "scuola": "L.S. E L. SC. UM. O.M.CORBINO SIRACUSA",
+  "comune": "SIRACUSA",
+  "provincia": "SIRACUSA"
+ },
+ {
+  "nome": "Antonio",
+  "cognome": "Napolitano",
+  "scuola": "LS L. DA VINCI",
+  "comune": "TREVISO",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Robert-Georgian",
+  "cognome": "Nitu",
+  "scuola": "I.T.T. EINST.-DE LOR. SEZ.ITIS POTENZA",
+  "comune": "POTENZA",
+  "provincia": "POTENZA"
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Schiff",
+  "scuola": "M. CURIE",
+  "comune": "PINEROLO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Domingo",
+  "cognome": "Dirutigliano",
+  "scuola": "I.I.S.S. Luigi dell'Erba",
+  "comune": "CASTELLANA GROTTE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Giacomo",
+  "cognome": "Arienti",
+  "scuola": "I.T.S.E. R. Valturio",
+  "comune": "RIMINI",
+  "provincia": "RIMINI"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Petroni",
+  "scuola": "I.S.S. Fazzini-Mercantini",
+  "comune": "GROTTAMMARE",
+  "provincia": "ASCOLI PICENO"
+ },
+ {
+  "nome": "Giovanni",
+  "cognome": "Spadaccini",
+  "scuola": "SCARUFFI LEVI TRICOLORE",
+  "comune": "REGGIO NELL'EMILIA",
+  "provincia": "REGGIO EMILIA"
+ },
+ {
+  "nome": "Luigi",
+  "cognome": "Loffredo",
+  "scuola": "Liceo Scientifico Cuoco - Campanella",
+  "comune": "NAPOLI",
+  "provincia": "NAPOLI"
+ },
+ {
+  "nome": "Maxim",
+  "cognome": "Ozolin",
+  "scuola": "G.MARCONI",
+  "comune": "PESARO",
+  "provincia": "PESARO E URBINO"
+ },
+ {
+  "nome": "Domenico",
+  "cognome": "Rotolo",
+  "scuola": "I.I.S.S. L. DA VINCI - AGHERBINO",
+  "comune": "NOCI",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Taulant",
+  "cognome": "Arapi",
+  "scuola": "GALILEO GALILEI - TRENTO",
+  "comune": "TRENTO",
+  "provincia": "TRENTO"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Fazio",
+  "scuola": "LICEO ORAZIO GRASSI - SAVONA",
+  "comune": "SAVONA",
+  "provincia": "SAVONA"
+ },
+ {
+  "nome": "Xuan",
+  "cognome": "Qiang",
+  "scuola": "I.I.S. ALDINI VALERIANI",
+  "comune": "BOLOGNA",
+  "provincia": "BOLOGNA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Maiolino",
+  "scuola": "Liceo Scientifico Statale Galileo Ferraris",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Luigi",
+  "cognome": "Fanuzzi",
+  "scuola": "LS CANUDO - LC MARONE",
+  "comune": "GIOIA DEL COLLE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Vincenzo",
+  "cognome": "Turturro",
+  "scuola": "I.I.S.S. GALILEO FERRARIS",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Jacopo",
+  "cognome": "Martellotto",
+  "scuola": "LICEO SCIENTIFICO DE GIORGI LECCE",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Riccardo",
+  "cognome": "Pizzaleo",
+  "scuola": "Liceo Scientifico G. Battaglini",
+  "comune": "TARANTO",
+  "provincia": "TARANTO"
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Lotito",
+  "scuola": "I.I.S.S. AUGUSTO RIGHI",
+  "comune": "CERIGNOLA",
+  "provincia": "FOGGIA"
+ },
+ {
+  "nome": "Antonio",
+  "cognome": "Sgalla",
+  "scuola": "I.I.S. VOLTERRA - ELIA",
+  "comune": "ANCONA",
+  "provincia": "ANCONA"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Salvatori",
+  "scuola": "ITTS Alessandro Volta",
+  "comune": "PERUGIA",
+  "provincia": "PERUGIA"
+ },
+ {
+  "nome": "Alessio",
+  "cognome": "Doria",
+  "scuola": "IISS Enrico Fermi",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Bianco",
+  "scuola": "LICEO CLASSICO MUSICALE PALMIERI",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Marco",
+  "cognome": "Colletti",
+  "scuola": "ITIS Giulio Riva",
+  "comune": "SARONNO",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Vettor",
+  "scuola": "ITIS Max Planck",
+  "comune": "VILLORBA",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Alessio",
+  "cognome": "Alchieri",
+  "scuola": "I.I.S. G. GALILEI",
+  "comune": "CREMA",
+  "provincia": "CREMONA"
+ },
+ {
+  "nome": "Stefano",
+  "cognome": "Raviola",
+  "scuola": "ALESSANDRO ARTOM",
+  "comune": "ASTI",
+  "provincia": "ASTI"
+ },
+ {
+  "nome": "Roberto",
+  "cognome": "Chiesa",
+  "scuola": "LICEO NICCOLO' COPERNICO",
+  "comune": "BOLOGNA",
+  "provincia": "BOLOGNA"
+ },
+ {
+  "nome": "Iacop",
+  "cognome": "Hafiane",
+  "scuola": "I.T.I.S. Enrico Fermi",
+  "comune": "LUCCA",
+  "provincia": "LUCCA"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Bonora",
+  "scuola": "I.T.I.S RIVA - SARONNO",
+  "comune": "SARONNO",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Mello",
+  "scuola": "Liceo Scientifico Statale Galileo Ferraris",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Raffaele",
+  "cognome": "Grieco",
+  "scuola": "L.S. Lecce De Giorgi",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Kevin",
+  "cognome": "Sciolti",
+  "scuola": "IISS Enrico Fermi",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "Valentini",
+  "scuola": "ENRICO MATTEI",
+  "comune": "RECANATI",
+  "provincia": "MACERATA"
+ },
+ {
+  "nome": "Suqi",
+  "cognome": "Chen",
+  "scuola": "LS L. DA VINCI",
+  "comune": "TREVISO",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Leonardo",
+  "cognome": "Ferro",
+  "scuola": "I.I.S. Volterra - Elia",
+  "comune": "ANCONA",
+  "provincia": "ANCONA"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Frohmüller",
+  "scuola": "Liceo Orazio Grassi",
+  "comune": "SAVONA",
+  "provincia": "SAVONA"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Mazzacano",
+  "scuola": "Istituto Superiore Pascal Comandini",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Darius",
+  "cognome": "Gavanescu",
+  "scuola": "I.I.S. L.GEYMONAT - TRADATE",
+  "comune": "TRADATE",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Bissoli",
+  "scuola": "Istituto Statale d'Istruzione Leonardo da Vinci",
+  "comune": "CEREA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Reho",
+  "scuola": "I.I.S.S. ANTONIO MEUCCI",
+  "comune": "CASARANO",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Fabio",
+  "cognome": "Brunetto",
+  "scuola": "I.I.S. E. Majorana",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Gennaro",
+  "cognome": "De",
+  "scuola": "L.SC.LING. CUOCO-CAMPANELLA DI NAPOLI",
+  "comune": "NAPOLI",
+  "provincia": "NAPOLI"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Ferrari",
+  "scuola": "GALILEO GALILEI - TRENTO",
+  "comune": "TRENTO",
+  "provincia": "TRENTO"
+ },
+ {
+  "nome": "Michele",
+  "cognome": "Ghilardi",
+  "scuola": "LICEO SCIENTIFICO STATALE LEONARDO",
+  "comune": "BRESCIA",
+  "provincia": "BRESCIA"
+ },
+ {
+  "nome": "Alexandru",
+  "cognome": "Nechita",
+  "scuola": "Istituto di Istruzione Superiore Luigi Di Savoia",
+  "comune": "CHIETI",
+  "provincia": "CHIETI"
+ },
+ {
+  "nome": "Sanino",
+  "cognome": "Fabio",
+  "scuola": "FOSSANO G.VALLAURI",
+  "comune": "FOSSANO",
+  "provincia": "CUNEO"
+ },
+ {
+  "nome": "Gioele",
+  "cognome": "Pettarini",
+  "scuola": "Liceo Scientifico Statale Niccol\u00f2 Copernico",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Patrick",
+  "cognome": "Turricelli",
+  "scuola": "LICEO STATALE RINALDO CORSO",
+  "comune": "CORREGGIO",
+  "provincia": "REGGIO EMILIA"
+ },
+ {
+  "nome": "Alessio",
+  "cognome": "Tosi",
+  "scuola": "E. FERMI",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Stefano",
+  "cognome": "Cavalletti",
+  "scuola": "LICEO E ITS I. CALVINO",
+  "comune": "GENOVA",
+  "provincia": "GENOVA"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Visconti",
+  "scuola": "ITT GUIDO DORSO",
+  "comune": "AVELLINO",
+  "provincia": "AVELLINO"
+ },
+ {
+  "nome": "Raffaele",
+  "cognome": "Feroce",
+  "scuola": "ISTITUTO SUPERIORE GUGLIELMO MARCONI",
+  "comune": "GIUGLIANO IN CAMPANIA",
+  "provincia": "NAPOLI"
+ },
+ {
+  "nome": "Carmine",
+  "cognome": "Spiezia",
+  "scuola": "ITI G.FERRARIS-NAPOLI-",
+  "comune": "NAPOLI",
+  "provincia": "NAPOLI"
+ },
+ {
+  "nome": "Tsvetelin",
+  "cognome": "Aleksiev",
+  "scuola": "L. SAVOIA",
+  "comune": "CHIETI",
+  "provincia": "CHIETI"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "Zambito",
+  "scuola": "E. MAJORANA",
+  "comune": "GRUGLIASCO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Christian",
+  "cognome": "Cecili",
+  "scuola": "ITTS ALESSANDRO VOLTA TIVOLI",
+  "comune": "TIVOLI",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Pierantonio",
+  "cognome": "D'Agostino",
+  "scuola": "I.I.S.S. G. MARCONI - MARGHERITA HACK",
+  "comune": "BARI",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Bellina",
+  "scuola": "T. BUZZI",
+  "comune": "PRATO",
+  "provincia": "PRATO"
+ },
+ {
+  "nome": "Tiziano",
+  "cognome": "Radicchi",
+  "scuola": "I.T.S.O.S. Marie Curie",
+  "comune": "CERNUSCO SUL NAVIGLIO",
+  "provincia": "MILANO"
+ },
+ {
+  "nome": "Filippo",
+  "cognome": "Barbieri",
+  "scuola": "G.SILVA-M.RICCI",
+  "comune": "LEGNAGO",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Alessio",
+  "cognome": "Pagano",
+  "scuola": "I.I.S.S. Galileo Ferraris",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Ignazio",
+  "cognome": "Spaccavento",
+  "scuola": "I.I.S.S. GALILEO FERRARIS",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Melis",
+  "scuola": "I.T.I. OTHOCA",
+  "comune": "ORISTANO",
+  "provincia": "ORISTANO"
+ },
+ {
+  "nome": "Michele",
+  "cognome": "Sechi",
+  "scuola": "ATTILIO DEFFENU",
+  "comune": "OLBIA",
+  "provincia": "SASSARI"
+ },
+ {
+  "nome": "Vincenzo",
+  "cognome": "Petrillo",
+  "scuola": "IIS Enrico Mattei",
+  "comune": "RECANATI",
+  "provincia": "MACERATA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Luciani",
+  "scuola": "C.D'ASCANIO",
+  "comune": "MONTESILVANO",
+  "provincia": "PESCARA"
+ },
+ {
+  "nome": "Valentino",
+  "cognome": "Badalucco",
+  "scuola": "LS G.D.CASSINI -",
+  "comune": "GENOVA",
+  "provincia": "GENOVA"
+ },
+ {
+  "nome": "Marco",
+  "cognome": "Casali",
+  "scuola": "PASCAL-COMANDINI",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Marotta",
+  "scuola": "F. BUONARROTI",
+  "comune": "PISA",
+  "provincia": "PISA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Tarantello",
+  "scuola": "Liceo Orso Mario Corbino",
+  "comune": "SIRACUSA",
+  "provincia": "SIRACUSA"
+ },
+ {
+  "nome": "Luca",
+  "cognome": "Mascetti",
+  "scuola": "LICEO SCIENTIFICO G. B. GRASSI",
+  "comune": "SARONNO",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Samuele",
+  "cognome": "Cistaro",
+  "scuola": "LICEO SCIENTIFICO DE GIORGI LECCE",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Mattia",
+  "cognome": "Senni",
+  "scuola": "PASCAL-COMANDINI",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Tahir",
+  "cognome": "Aliu",
+  "scuola": "E.FERMI",
+  "comune": "LUCCA",
+  "provincia": "LUCCA"
+ },
+ {
+  "nome": "Pietro",
+  "cognome": "Foroni",
+  "scuola": "GUGLIELMO MARCONI",
+  "comune": "VERONA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Giacomo",
+  "cognome": "Boschi",
+  "scuola": "Istituto Superiore Pascal Comandini",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Giuseppe",
+  "cognome": "Ruggiero",
+  "scuola": "ENRICO MATTEI",
+  "comune": "RECANATI",
+  "provincia": "MACERATA"
+ },
+ {
+  "nome": "Vincenzo",
+  "cognome": "Gallina",
+  "scuola": "ISIS Arturo Malignani",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Mirko",
+  "cognome": "Cetorelli",
+  "scuola": "ITTS ALESSANDRO VOLTA TIVOLI",
+  "comune": "TIVOLI",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Diego",
+  "cognome": "Cirillo",
+  "scuola": "G. GALILEI",
+  "comune": "GORIZIA",
+  "provincia": "GORIZIA"
+ },
+ {
+  "nome": "Federico",
+  "cognome": "Bartoli",
+  "scuola": "SILVIO D'ARZO",
+  "comune": "MONTECCHIO EMILIA",
+  "provincia": "REGGIO EMILIA"
+ },
+ {
+  "nome": "Mattia",
+  "cognome": "Lorenzo",
+  "scuola": "Liceo Scientifico Statale Galileo Ferraris",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Emanuele",
+  "cognome": "Gaetano",
+  "scuola": "L. DA VINCI",
+  "comune": "PESCARA",
+  "provincia": "PESCARA"
+ },
+ {
+  "nome": "Giuseppe",
+  "cognome": "Cisternino",
+  "scuola": "I.I.S.S. VOLTA - DE GEMMIS",
+  "comune": "BITONTO",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Gaetano",
+  "cognome": "Picciariello",
+  "scuola": "I.I.S.S. VOLTA - DE GEMMIS",
+  "comune": "BITONTO",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Damiano",
+  "cognome": "Nicolussi",
+  "scuola": "Istituto Di Istruzione Martino Martini",
+  "comune": "MEZZOLOMBARDO",
+  "provincia": "TRENTO"
+ },
+ {
+  "nome": "Leonardo",
+  "cognome": "Carlo",
+  "scuola": "BANFI",
+  "comune": "VIMERCATE",
+  "provincia": "MONZA E DELLA BRIANZA"
+ },
+ {
+  "nome": "Nicol\u00f2",
+  "cognome": "Piccini",
+  "scuola": "L.DI SAVOIA - G. BENINCASA",
+  "comune": "ANCONA",
+  "provincia": "ANCONA"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Ravera",
+  "scuola": "A.AVOGADRO",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Danilo",
+  "cognome": "Manco",
+  "scuola": "A. VOLTA",
+  "comune": "PESCARA",
+  "provincia": "PESCARA"
+ },
+ {
+  "nome": "Gioele",
+  "cognome": "Carletti",
+  "scuola": "L.DI SAVOIA - G. BENINCASA",
+  "comune": "ANCONA",
+  "provincia": "ANCONA"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "De",
+  "scuola": "I.I.S.S. E. FERMI",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Emanuele",
+  "cognome": "Valeri",
+  "scuola": "GIANCARLO VALLAURI",
+  "comune": "VELLETRI",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Federico",
+  "cognome": "Benoni",
+  "scuola": "Istituto Tecnico C. A. Pilati",
+  "comune": "CLES",
+  "provincia": "TRENTO"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Galli",
+  "scuola": "F. BUONARROTI",
+  "comune": "PISA",
+  "provincia": "PISA"
+ },
+ {
+  "nome": "Emanuel",
+  "cognome": "Mihali",
+  "scuola": "I.T.S.O.S. Marie Curie",
+  "comune": "CERNUSCO SUL NAVIGLIO",
+  "provincia": "MILANO"
+ },
+ {
+  "nome": "Gianluca",
+  "cognome": "Fusco",
+  "scuola": "I.S.-ITCG-L.SC.-L.DA VINCI-POGGIOMARINO",
+  "comune": "POGGIOMARINO",
+  "provincia": "NAPOLI"
+ },
+ {
+  "nome": "Paolo",
+  "cognome": "Buso",
+  "scuola": "LS L. DA VINCI",
+  "comune": "TREVISO",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Carmelo",
+  "cognome": "Seminara",
+  "scuola": "I.I.S.LICEO C. MARCHESI CL./SC.",
+  "comune": "MASCALUCIA",
+  "provincia": "CATANIA"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "Conti",
+  "scuola": "I.I.S. RAMACCA-PALAGONIA",
+  "comune": "RAMACCA",
+  "provincia": "CATANIA"
+ },
+ {
+  "nome": "Alberto",
+  "cognome": "Vona",
+  "scuola": "E. FERMI",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Consonni",
+  "scuola": "ALBERT EINSTEIN",
+  "comune": "VIMERCATE",
+  "provincia": "MONZA E DELLA BRIANZA"
+ },
+ {
+  "nome": "Diego",
+  "cognome": "Satta",
+  "scuola": "PASCAL-COMANDINI",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Casula",
+  "scuola": "I.T.I. OTHOCA",
+  "comune": "ORISTANO",
+  "provincia": "ORISTANO"
+ },
+ {
+  "nome": "Carlo",
+  "cognome": "Comotti",
+  "scuola": "BANFI",
+  "comune": "VIMERCATE",
+  "provincia": "MONZA E DELLA BRIANZA"
+ },
+ {
+  "nome": "Giampaolo",
+  "cognome": "Boccardi",
+  "scuola": "I.I.S.S. LUIGI DELL'ERBA",
+  "comune": "CASTELLANA GROTTE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Eduardo",
+  "cognome": "Calista",
+  "scuola": "LICEO SCIENTIFICO G. BATTAGLINI",
+  "comune": "TARANTO",
+  "provincia": "TARANTO"
+ },
+ {
+  "nome": "Davide",
+  "cognome": "Antonio",
+  "scuola": "I.I.S.S. E. FERMI",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Roberto",
+  "cognome": "Pisu",
+  "scuola": "PASCAL-COMANDINI",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Martini",
+  "scuola": "G.SILVA-M.RICCI",
+  "comune": "LEGNAGO",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "An",
+  "cognome": "Chen",
+  "scuola": "I.S. EINAUDI - SCARPA",
+  "comune": "MONTEBELLUNA",
+  "provincia": "TREVISO"
+ },
+ {
+  "nome": "Antonio",
+  "cognome": "Coltraro",
+  "scuola": "FRANCESCO REDI",
+  "comune": "PATERNO'",
+  "provincia": "CATANIA"
+ },
+ {
+  "nome": "Neil",
+  "cognome": "Alessandro",
+  "scuola": "MAGISTRI CUMACINI",
+  "comune": "COMO",
+  "provincia": "COMO"
+ },
+ {
+  "nome": "Oscar",
+  "cognome": "Forte",
+  "scuola": "LICEO SCIENTIFICO G. B. GRASSI",
+  "comune": "SARONNO",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Cristian",
+  "cognome": "Nicosia",
+  "scuola": "ITI S.AGATA M.LLO TORRICELLI",
+  "comune": "SANT'AGATA DI MILITELLO",
+  "provincia": "MESSINA"
+ },
+ {
+  "nome": "Niccol\u00f2",
+  "cognome": "Lucozzi",
+  "scuola": "E. DIVINI",
+  "comune": "SAN SEVERINO MARCHE",
+  "provincia": "MACERATA"
+ },
+ {
+  "nome": "Daniel",
+  "cognome": "Tranchitella",
+  "scuola": "ITI ETTORE MAJORANA",
+  "comune": "SAN LAZZARO DI SAVENA",
+  "provincia": "BOLOGNA"
+ },
+ {
+  "nome": "Leonardo",
+  "cognome": "Forconi",
+  "scuola": "E. DIVINI",
+  "comune": "SAN SEVERINO MARCHE",
+  "provincia": "MACERATA"
+ },
+ {
+  "nome": "Gabriella",
+  "cognome": "Xenia",
+  "scuola": "LS PAOLA",
+  "comune": "PAOLA",
+  "provincia": "COSENZA"
+ },
+ {
+  "nome": "Giuseppe",
+  "cognome": "Pasquariello",
+  "scuola": "Liceo Scientifico Carlo Pisacane",
+  "comune": "PADULA",
+  "provincia": "SALERNO"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Pastore",
+  "scuola": "MARGHERITA HACK",
+  "comune": "BARI",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Zanzi",
+  "scuola": "LICEO SCIENTIFICO SCIENZE APPLICATE MONS. ENRICO MANFREDINI",
+  "comune": "VARESE",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Mehdi",
+  "cognome": "Zribi",
+  "scuola": "LICEO SCIENTIFICO G. B. GRASSI",
+  "comune": "SARONNO",
+  "provincia": "VARESE"
+ },
+ {
+  "nome": "Manuel",
+  "cognome": "Ubaldi",
+  "scuola": "E. MAJORANA",
+  "comune": "GRUGLIASCO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Michele",
+  "cognome": "Vincenzo",
+  "scuola": "IIS ACRI LC - LS V. JULIA",
+  "comune": "ACRI",
+  "provincia": "COSENZA"
+ },
+ {
+  "nome": "Pierluigi",
+  "cognome": "De",
+  "scuola": "I.I.S.S. Galileo Ferraris",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Massi",
+  "scuola": "LS M.CURIE",
+  "comune": "GIULIANOVA",
+  "provincia": "TERAMO"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Nonnis",
+  "scuola": "LICEO CLASS/SC. EUCLIDE CAGLIARI",
+  "comune": "CAGLIARI",
+  "provincia": "CAGLIARI"
+ },
+ {
+  "nome": "Cristian",
+  "cognome": "Calabrese",
+  "scuola": "ITI S.AGATA M.LLO TORRICELLI",
+  "comune": "SANT'AGATA DI MILITELLO",
+  "provincia": "MESSINA"
+ },
+ {
+  "nome": "Giulio",
+  "cognome": "Furlan",
+  "scuola": "ITST KENNEDY",
+  "comune": "PORDENONE",
+  "provincia": "PORDENONE"
+ },
+ {
+  "nome": "Giovanni",
+  "cognome": "Orzincolo",
+  "scuola": "ISIS A. MALIGNANI UDINE",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Jacopo",
+  "cognome": "Di",
+  "scuola": "I.T.S.O.S. Marie Curie",
+  "comune": "CERNUSCO SUL NAVIGLIO",
+  "provincia": "MILANO"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Zanier",
+  "scuola": "ISIS Arturo Malignani",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Salvatore",
+  "cognome": "Abello",
+  "scuola": "IISS G.Marconi M.Hack",
+  "comune": "BARI",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Riccardo",
+  "cognome": "Sulis",
+  "scuola": "IIS Dionigi Scano",
+  "comune": "CAGLIARI",
+  "provincia": "CAGLIARI"
+ },
+ {
+  "nome": "Davide",
+  "cognome": "Castellani",
+  "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
+  "comune": "VERONA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Pimen",
+  "cognome": "Flavian",
+  "scuola": "Istituto Tecnico Industriale Avogadro",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Lorenzo",
+  "cognome": "Cipolletti",
+  "scuola": "Liceo Statale Maria Montessori",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Romeo",
+  "cognome": "Biancalani",
+  "scuola": "ITS Tullio Buzzi",
+  "comune": "PRATO",
+  "provincia": "PRATO"
+ },
+ {
+  "nome": "Mattia",
+  "cognome": "Perfumo",
+  "scuola": "Istituto di Istruzione Superiore Caramuel - Roncalli",
+  "comune": "VIGEVANO",
+  "provincia": "PAVIA"
+ },
+ {
+  "nome": "Riccardo",
+  "cognome": "Azuni",
+  "scuola": "I.I.S.G. Vallauri",
+  "comune": "FOSSANO",
+  "provincia": "CUNEO"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Sinibaldi",
+  "scuola": "Istituto Tecnico Industriale Statale Alessandro Rossi",
+  "comune": "VICENZA",
+  "provincia": "VICENZA"
+ },
+ {
+  "nome": "Tommaso",
+  "cognome": "Ventafridda",
+  "scuola": "Istituto D'Istruzione Superiore Albert Einstein",
+  "comune": "VIMERCATE",
+  "provincia": "MONZA E DELLA BRIANZA"
+ },
+ {
+  "nome": "Mattia",
+  "cognome": "Lembo",
+  "scuola": "IISS Benedetto Radice",
+  "comune": "BRONTE",
+  "provincia": "CATANIA"
+ },
+ {
+  "nome": "Christian",
+  "cognome": "Moccia",
+  "scuola": "ITS Tullio Buzzi",
+  "comune": "PRATO",
+  "provincia": "PRATO"
+ },
+ {
+  "nome": "John",
+  "cognome": "Toniutti",
+  "scuola": "ISIS Arturo Malignani",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Oscar",
+  "cognome": "Urselli",
+  "scuola": "Liceo Statale Moscati",
+  "comune": "GROTTAGLIE",
+  "provincia": "TARANTO"
+ },
+ {
+  "nome": "Riccardo",
+  "cognome": "Moiso",
+  "scuola": "I.I.S. E. Majorana",
+  "comune": "TORINO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Ferdinando",
+  "scuola": "ITT Guide Dorso",
+  "comune": "AVELLINO",
+  "provincia": "AVELLINO"
+ },
+ {
+  "nome": "Anthony",
+  "cognome": "Gerardo",
+  "scuola": "Liceo Scientifico Carlo Pisacane",
+  "comune": "PADULA",
+  "provincia": "SALERNO"
+ },
+ {
+  "nome": "Giovanni",
+  "cognome": "Santini",
+  "scuola": "Liceo Scientifico Statale E.Medi",
+  "comune": "SENIGALLIA",
+  "provincia": "ANCONA"
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Muolo",
+  "scuola": "I.I.S.S. Luigi dell'Erba",
+  "comune": "CASTELLANA GROTTE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Giacomo",
+  "cognome": "Gelormini",
+  "scuola": "Liceo Statale Tito Lucrezio Caro",
+  "comune": "SARNO",
+  "provincia": "SALERNO"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Gordanelli",
+  "scuola": "Istituto Tecnico Ettore Majorana",
+  "comune": "GRUGLIASCO",
+  "provincia": "TORINO"
+ },
+ {
+  "nome": "Tommaso",
+  "cognome": "Abitante",
+  "scuola": "ITIS Enrico Fermi",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Valerio",
+  "cognome": "Leonetti",
+  "scuola": "ITIS Enrico Fermi",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Mariano",
+  "cognome": "Riefolo",
+  "scuola": "Istituto Tecnico Cassandro Fermi Nervi",
+  "comune": "BARLETTA",
+  "provincia": "BARLETTA-ANDRIA-TRANI"
+ },
+ {
+  "nome": "Eric",
+  "cognome": "Aquilotti",
+  "scuola": "Istituto Superiore Pascal Comandini",
+  "comune": "CESENA",
+  "provincia": "FORLI'-CESENA"
+ },
+ {
+  "nome": "Stefano",
+  "cognome": "Pavesi",
+  "scuola": "Istituto Istruzione Superiore A.Volta",
+  "comune": "LODI",
+  "provincia": "LODI"
+ },
+ {
+  "nome": "Davide",
+  "cognome": "Cossidente",
+  "scuola": "Istituto Tecnico Settore Tecnologico J.F.Kennedy",
+  "comune": "PORDENONE",
+  "provincia": "PORDENONE"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Leone",
+  "scuola": "Istituto Istruzione Superiore E. Fermi Guttuso",
+  "comune": "GIARRE",
+  "provincia": "CATANIA"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Saya",
+  "scuola": "Liceo Scientifico Gian Domenico Cassini",
+  "comune": "GENOVA",
+  "provincia": "GENOVA"
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Andreoni",
+  "scuola": "ITS Tullio Buzzi",
+  "comune": "PRATO",
+  "provincia": "PRATO"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Squitieri",
+  "scuola": "ITT Basilio Focaccia",
+  "comune": "SALERNO",
+  "provincia": "SALERNO"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "De",
+  "scuola": "I.I.S.S. Ettore Majorana",
+  "comune": "BRINDISI",
+  "provincia": "BRINDISI"
+ },
+ {
+  "nome": "Stefano",
+  "cognome": "Liotti",
+  "scuola": "I.T.I.S. Magistri Cumacini",
+  "comune": "COMO",
+  "provincia": "COMO"
+ },
+ {
+  "nome": "Davide",
+  "cognome": "Zanaletti",
+  "scuola": "Istituto Istruzione Superiore A.Volta",
+  "comune": "LODI",
+  "provincia": "LODI"
+ },
+ {
+  "nome": "Pietro",
+  "cognome": "Maretti",
+  "scuola": "Istituto Tecnico Industriale e Professionale L. Bucci",
+  "comune": "FAENZA",
+  "provincia": "RAVENNA"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Tempesta",
+  "scuola": "I.I.S.S. Galileo Ferraris",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Jacopo",
+  "cognome": "Bonati",
+  "scuola": "ITIS Leonardo da Vinci",
+  "comune": "PARMA",
+  "provincia": "PARMA"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Sangiovanni",
+  "scuola": "Istituto di Istruzione Superiore Federico Caff\u00e8",
+  "comune": "ROMA",
+  "provincia": "ROMA"
+ },
+ {
+  "nome": "Zaki",
+  "cognome": "Pedio",
+  "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
+  "comune": "VERONA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Marco",
+  "cognome": "Beltrame",
+  "scuola": "ISIS Arturo Malignani",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "Aliprandi",
+  "scuola": "Istituto Istruzione Superiore A.Volta",
+  "comune": "LODI",
+  "provincia": "LODI"
+ },
+ {
+  "nome": "Massimo",
+  "cognome": "Sanna",
+  "scuola": "IIS Dionigi Scano",
+  "comune": "CAGLIARI",
+  "provincia": "CAGLIARI"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Rizzo",
+  "scuola": "Liceo Classico Statale G. Palmieri",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Tuillier",
+  "scuola": "Liceo Scientifico Gian Domenico Cassini",
+  "comune": "GENOVA",
+  "provincia": "GENOVA"
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Varotto",
+  "scuola": "Istituto Istruzione Superiore A.Volta",
+  "comune": "LODI",
+  "provincia": "LODI"
+ },
+ {
+  "nome": "Daniel",
+  "cognome": "Fragrante",
+  "scuola": "Liceo Scientifico Statale Niccol\u00f2 Copernico",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Marco",
+  "cognome": "Mazzeo",
+  "scuola": "Liceo Filippo Buonarroti",
+  "comune": "PISA",
+  "provincia": "PISA"
+ },
+ {
+  "nome": "Giacomo",
+  "cognome": "Carbonara",
+  "scuola": "IISS G.Marconi M.Hack",
+  "comune": "BARI",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Giuseppe",
+  "cognome": "Karol",
+  "scuola": "I.I.S.S. Luigi dell'Erba",
+  "comune": "CASTELLANA GROTTE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Michele",
+  "cognome": "Pio",
+  "scuola": "I.I.S.S. Luigi dell'Erba",
+  "comune": "CASTELLANA GROTTE",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Pulga",
+  "scuola": "I.I.S. Guido Monaco di Pomposa",
+  "comune": "CODIGORO",
+  "provincia": "FERRARA"
+ },
+ {
+  "nome": "Chiara",
+  "cognome": "Luna",
+  "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
+  "comune": "VERONA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Thomas",
+  "cognome": "Prenner",
+  "scuola": "Liceo Scientifico Statale Niccol\u00f2 Copernico",
+  "comune": "UDINE",
+  "provincia": "UDINE"
+ },
+ {
+  "nome": "Karim",
+  "cognome": "Abbassi",
+  "scuola": "ITT Leonardo da Vinci",
+  "comune": "FOLIGNO",
+  "provincia": "PERUGIA"
+ },
+ {
+  "nome": "Luca",
+  "cognome": "Papagni",
+  "scuola": "I.I.S.S. Galileo Ferraris",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
+  "nome": "Francesco",
+  "cognome": "Spada",
+  "scuola": "IISS Enrico Fermi",
+  "comune": "LECCE",
+  "provincia": "LECCE"
+ },
+ {
+  "nome": "Pietro",
+  "cognome": "Giampaolo",
+  "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
+  "comune": "VERONA",
+  "provincia": "VERONA"
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Laforgia",
+  "scuola": "I.I.S. Guido Monaco di Pomposa",
+  "comune": "CODIGORO",
+  "provincia": "FERRARA"
+ }
+]

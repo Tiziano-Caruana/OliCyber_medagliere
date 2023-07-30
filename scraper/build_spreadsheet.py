@@ -19,10 +19,10 @@ for edizione in edizioni:
             "nome": row[1].strip(),
             "cognome": row[2].strip(),
             "punteggio": row[3].strip(),
-            "scuola": row[4].strip().replace('\\', ''),
+            "scuola": row[4].strip().replace('"', ''),
             "comune": row[5].strip(),
             "provincia": row[6].strip(),
-            "data": row[7].strip()
+            "anno": row[7].strip()
         })
 
     # Write json data to file
