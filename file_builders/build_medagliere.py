@@ -13,7 +13,7 @@ for edizione in edizioni:
         if(i == 40):
             break
         partecipante = []
-        if participant['cognome'] not in aux:
+        if not any(participant['cognome'] in d['cognome'] for d in medagliere):
             medagliere.append({
             "nome": participant['nome'],
             "cognome": participant['cognome'],
@@ -24,7 +24,7 @@ for edizione in edizioni:
             aux.append(participant['cognome'])
 
         for medagliato in medagliere:
-            if participant['cognome'] in medagliato['cognome']:
+            if participant['cognome'] in medagliato['cognome'] and participant['nome'] in medagliato['nome']:
                 if i < 5:
                     medagliato['oro'] += 1
                 elif i < 15:

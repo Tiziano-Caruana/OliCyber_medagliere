@@ -17,13 +17,6 @@
   "nome": "Domingo",
   "cognome": "Dirutigliano",
   "oro": 1,
-  "argento": 2,
-  "bronzo": 0
- },
- {
-  "nome": "Eyad",
-  "cognome": "Lorenzo",
-  "oro": 1,
   "argento": 1,
   "bronzo": 0
  },
@@ -44,6 +37,13 @@
  {
   "nome": "Luca",
   "cognome": "Palumbo",
+  "oro": 1,
+  "argento": 0,
+  "bronzo": 0
+ },
+ {
+  "nome": "Eyad",
+  "cognome": "Lorenzo",
   "oro": 1,
   "argento": 0,
   "bronzo": 0
@@ -114,13 +114,6 @@
  {
   "nome": "Taulant",
   "cognome": "Arapi",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Jacopo",
-  "cognome": "Di",
   "oro": 0,
   "argento": 1,
   "bronzo": 0
