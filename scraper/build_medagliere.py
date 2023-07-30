@@ -15,22 +15,23 @@ for edizione in edizioni:
             break
         partecipante = []
         if participant['cognome'] not in aux:
-            partecipante.append(participant['nome'])
-            partecipante.append(participant['cognome'])
-            partecipante.append(0)
-            partecipante.append(0)
-            partecipante.append(0)
-            medagliere.append(partecipante)
+            medagliere.append({
+            "nome": participant['nome'],
+            "cognome": participant['cognome'],
+            "oro": 0,
+            "argento": 0,
+            "bronzo": 0
+        })
             aux.append(participant['cognome'])
 
-        for i2, medagliato in enumerate(medagliere):
-            if participant['cognome'] in medagliato:
+        for medagliato in medagliere:
+            if participant['cognome'] in medagliato['cognome']:
                 if i < 5:
-                    medagliere[i2][2] = medagliere[i2][2] + 1
+                    medagliato['oro'] += 1
                 elif i < 15:
-                    medagliere[i2][3] = medagliere[i2][3] + 1
+                    medagliato['argento'] += 1
                 elif i < 40:
-                    medagliere[i2][4] = medagliere[i2][4] + 1
+                    medagliato['bronzo'] += 1
 
 with open(f'../data/medagliere.json', 'w') as f:
     json.dump(medagliere, f, indent=1)
