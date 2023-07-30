@@ -14,10 +14,10 @@
   "bronzo": 0
  },
  {
-  "nome": "Luca",
-  "cognome": "Palumbo",
+  "nome": "Domingo",
+  "cognome": "Dirutigliano",
   "oro": 1,
-  "argento": 0,
+  "argento": 2,
   "bronzo": 0
  },
  {
@@ -28,11 +28,53 @@
   "bronzo": 0
  },
  {
+  "nome": "Simone",
+  "cognome": "Petroni",
+  "oro": 1,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Luigi",
+  "cognome": "Loffredo",
+  "oro": 1,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Luca",
+  "cognome": "Palumbo",
+  "oro": 1,
+  "argento": 0,
+  "bronzo": 0
+ },
+ {
   "nome": "Antonio",
   "cognome": "Napolitano",
   "oro": 1,
   "argento": 0,
   "bronzo": 0
+ },
+ {
+  "nome": "Giacomo",
+  "cognome": "Arienti",
+  "oro": 0,
+  "argento": 2,
+  "bronzo": 0
+ },
+ {
+  "nome": "Gabriele",
+  "cognome": "Maiolino",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 1
+ },
+ {
+  "nome": "Marco",
+  "cognome": "Colletti",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 1
  },
  {
   "nome": "Robert-Georgian",
@@ -49,37 +91,9 @@
   "bronzo": 0
  },
  {
-  "nome": "Domingo",
-  "cognome": "Dirutigliano",
-  "oro": 1,
-  "argento": 2,
-  "bronzo": 0
- },
- {
-  "nome": "Giacomo",
-  "cognome": "Arienti",
-  "oro": 0,
-  "argento": 2,
-  "bronzo": 0
- },
- {
-  "nome": "Simone",
-  "cognome": "Petroni",
-  "oro": 1,
-  "argento": 1,
-  "bronzo": 0
- },
- {
   "nome": "Giovanni",
   "cognome": "Spadaccini",
   "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Luigi",
-  "cognome": "Loffredo",
-  "oro": 1,
   "argento": 1,
   "bronzo": 0
  },
@@ -105,6 +119,62 @@
   "bronzo": 0
  },
  {
+  "nome": "Jacopo",
+  "cognome": "Di",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Alessandro",
+  "cognome": "Zanier",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Salvatore",
+  "cognome": "Abello",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Gioele",
+  "cognome": "Pettarini",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Riccardo",
+  "cognome": "Sulis",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Fabio",
+  "cognome": "Brunetto",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Andrea",
+  "cognome": "Salvatori",
+  "oro": 0,
+  "argento": 0,
+  "bronzo": 2
+ },
+ {
+  "nome": "Matteo",
+  "cognome": "Mello",
+  "oro": 0,
+  "argento": 0,
+  "bronzo": 2
+ },
+ {
   "nome": "Gabriele",
   "cognome": "Fazio",
   "oro": 0,
@@ -116,13 +186,6 @@
   "cognome": "Qiang",
   "oro": 0,
   "argento": 0,
-  "bronzo": 1
- },
- {
-  "nome": "Gabriele",
-  "cognome": "Maiolino",
-  "oro": 0,
-  "argento": 1,
   "bronzo": 1
  },
  {
@@ -168,13 +231,6 @@
   "bronzo": 1
  },
  {
-  "nome": "Andrea",
-  "cognome": "Salvatori",
-  "oro": 0,
-  "argento": 0,
-  "bronzo": 2
- },
- {
   "nome": "Alessio",
   "cognome": "Doria",
   "oro": 0,
@@ -186,13 +242,6 @@
   "cognome": "Bianco",
   "oro": 0,
   "argento": 0,
-  "bronzo": 1
- },
- {
-  "nome": "Marco",
-  "cognome": "Colletti",
-  "oro": 0,
-  "argento": 1,
   "bronzo": 1
  },
  {
@@ -238,13 +287,6 @@
   "bronzo": 1
  },
  {
-  "nome": "Matteo",
-  "cognome": "Mello",
-  "oro": 0,
-  "argento": 0,
-  "bronzo": 2
- },
- {
   "nome": "Raffaele",
   "cognome": "Grieco",
   "oro": 0,
@@ -278,48 +320,6 @@
   "oro": 0,
   "argento": 0,
   "bronzo": 1
- },
- {
-  "nome": "Jacopo",
-  "cognome": "Di",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Alessandro",
-  "cognome": "Zanier",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Salvatore",
-  "cognome": "Abello",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Gioele",
-  "cognome": "Pettarini",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Riccardo",
-  "cognome": "Sulis",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
- },
- {
-  "nome": "Fabio",
-  "cognome": "Brunetto",
-  "oro": 0,
-  "argento": 1,
-  "bronzo": 0
  },
  {
   "nome": "Davide",

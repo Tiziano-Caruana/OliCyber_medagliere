@@ -32,6 +32,9 @@ for edizione in edizioni:
                 elif i < 40:
                     medagliato['bronzo'] += 1
 
+# Ordino il medagliere
+medagliere = sorted(medagliere, key=lambda k: (k['oro'], k['argento'], k['bronzo']),  reverse=True)
+
 with open(f'../data/medagliere.json', 'w') as f:
     json.dump(medagliere, f, indent=1)
 
