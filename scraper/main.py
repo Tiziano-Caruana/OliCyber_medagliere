@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from requests import *
 import requests
 import json
+import os
 
 class TooEarlyException(Exception):
     # this happens when trying to extract data for nationals for the current year when they haven't been held yet
@@ -38,9 +39,8 @@ def get_all_editions_data():
 
     return json.loads(data)
 
-def craft_data(edition_data) -> str:
+def craft_csv(edition_data) -> str:
     content = ""
-    json_content = []
     
     if "nazionale" not in edition_data:
         raise TooEarlyException()
@@ -48,42 +48,34 @@ def craft_data(edition_data) -> str:
     for contestant_data in edition_data["nazionale"]:
         content += ", ".join([
             str(contestant_data["posizione"]),
-            str(contestant_data["nome"]),
-            str(contestant_data["cognome"]),
+            contestant_data["nome"],
+            contestant_data["cognome"],
             str(contestant_data["punteggio"]),
-            str(contestant_data["scuola"]),
-            str(contestant_data["comune"]),
-            str(contestant_data["provincia"]),
+            contestant_data["scuola"],
+            contestant_data["comune"],
+            contestant_data["provincia"],
             str(contestant_data["classe"]),
         ]) + '\n'
 
-        json_content.append({
-            "posizione": contestant_data["posizione"],
-            "nome": contestant_data["nome"],
-            "cognome": contestant_data["cognome"],
-            "punteggio": contestant_data["punteggio"],
-            "scuola": contestant_data["scuola"],
-            "comune": contestant_data["comune"],
-            "provincia": contestant_data["provincia"],
-            "classe": contestant_data["classe"],
-        })
-
-    return content, json_content
+    return content
 
 def dump_data():
     editions_data = get_all_editions_data()
     
     for year in editions_data.keys():
         try:
-            csv_content, json_content = craft_data(editions_data[year])
+            csv_content = craft_csv(editions_data[year])
         except TooEarlyException:
             continue
+        
+        if not os.path.isdir(f"../data/{year}/"):
+            os.mkdir(f"../data/{year}/")
 
         with open(f"../data/{year}/graduatoria.csv", "w") as f:
             f.write(csv_content)
 
         with open(f"../data/{year}/graduatoria.json", "w") as f:
-            json.dump(json_content, f, indent=1)
+            json.dump(editions_data[year]["nazionale"], f, indent="	")
 
 if __name__ == "__main__":
     dump_data()
