@@ -38,8 +38,9 @@ def get_all_editions_data():
 
     return json.loads(data)
 
-def craft_csv(edition_data) -> str:
+def craft_data(edition_data) -> str:
     content = ""
+    json_content = []
     
     if "nazionale" not in edition_data:
         raise TooEarlyException()
@@ -56,19 +57,33 @@ def craft_csv(edition_data) -> str:
             str(contestant_data["classe"]),
         ]) + '\n'
 
-    return content
+        json_content.append({
+            "posizione": contestant_data["posizione"],
+            "nome": contestant_data["nome"],
+            "cognome": contestant_data["cognome"],
+            "punteggio": contestant_data["punteggio"],
+            "scuola": contestant_data["scuola"],
+            "comune": contestant_data["comune"],
+            "provincia": contestant_data["provincia"],
+            "classe": contestant_data["classe"],
+        })
+
+    return content, json_content
 
 def dump_data():
     editions_data = get_all_editions_data()
     
     for year in editions_data.keys():
         try:
-            csv_content = craft_csv(editions_data[year])
+            csv_content, json_content = craft_data(editions_data[year])
         except TooEarlyException:
             continue
 
         with open(f"../data/{year}/graduatoria.csv", "w") as f:
             f.write(csv_content)
+
+        with open(f"../data/{year}/graduatoria.json", "w") as f:
+            json.dump(json_content, f, indent=1)
 
 if __name__ == "__main__":
     dump_data()

@@ -42,8 +42,8 @@
   "bronzo": 0
  },
  {
-  "nome": "Eyad",
-  "cognome": "Lorenzo",
+  "nome": "Eyad Lorenzo",
+  "cognome": "Issa",
   "oro": 1,
   "argento": 0,
   "bronzo": 0
@@ -119,6 +119,20 @@
   "bronzo": 0
  },
  {
+  "nome": "Jacopo",
+  "cognome": "Di Pumpo",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
+  "nome": "Mattia Lorenzo",
+  "cognome": "Chiabrando",
+  "oro": 0,
+  "argento": 1,
+  "bronzo": 0
+ },
+ {
   "nome": "Alessandro",
   "cognome": "Zanier",
   "oro": 0,
@@ -175,8 +189,8 @@
   "bronzo": 1
  },
  {
-  "nome": "Xuan",
-  "cognome": "Qiang",
+  "nome": "Xuan Qiang",
+  "cognome": "Huang",
   "oro": 0,
   "argento": 0,
   "bronzo": 1
@@ -322,8 +336,8 @@
   "bronzo": 1
  },
  {
-  "nome": "Pimen",
-  "cognome": "Flavian",
+  "nome": "Pimen Flavian",
+  "cognome": "Dei",
   "oro": 0,
   "argento": 0,
   "bronzo": 1
@@ -441,8 +455,8 @@
   "bronzo": 1
  },
  {
-  "nome": "Matteo",
-  "cognome": "Ferdinando",
+  "nome": "Matteo Ferdinando",
+  "cognome": "Emolo",
   "oro": 0,
   "argento": 0,
   "bronzo": 1
@@ -455,8 +469,8 @@
   "bronzo": 1
  },
  {
-  "nome": "Anthony",
-  "cognome": "Gerardo",
+  "nome": "Anthony Gerardo",
+  "cognome": "Giuliano",
   "oro": 0,
   "argento": 0,
   "bronzo": 1

@@ -1,197 +1,198 @@
-nome, cognome, scuola, città, provincia
-Carlo, Collodel, Istituto Superiore Antonio Scarpa, MOTTA DI LIVENZA, TREVISO
-Tito, Sacchi, Istituto Superiore “Taramelli - Foscolo, PAVIA, PAVIA
-Luca, Palumbo, IM STATALE LORENZINI, PESCIA, PISTOIA
-Eyad, Lorenzo, L.S. E L. SC. UM. O.M.CORBINO SIRACUSA, SIRACUSA, SIRACUSA
-Antonio, Napolitano, LS L. DA VINCI, TREVISO, TREVISO
-Robert-Georgian, Nitu, I.T.T. EINST.-DE LOR. SEZ.ITIS POTENZA, POTENZA, POTENZA
-Matteo, Schiff, M. CURIE, PINEROLO, TORINO
-Domingo, Dirutigliano, I.I.S.S. Luigi dell'Erba, CASTELLANA GROTTE, BARI
-Giacomo, Arienti, I.T.S.E. R. Valturio, RIMINI, RIMINI
-Simone, Petroni, I.S.S. Fazzini-Mercantini, GROTTAMMARE, ASCOLI PICENO
-Giovanni, Spadaccini, SCARUFFI LEVI TRICOLORE, REGGIO NELL'EMILIA, REGGIO EMILIA
-Luigi, Loffredo, Liceo Scientifico Cuoco - Campanella, NAPOLI, NAPOLI
-Maxim, Ozolin, G.MARCONI, PESARO, PESARO E URBINO
-Domenico, Rotolo, I.I.S.S. L. DA VINCI - AGHERBINO, NOCI, BARI
-Taulant, Arapi, GALILEO GALILEI - TRENTO, TRENTO, TRENTO
-Gabriele, Fazio, LICEO ORAZIO GRASSI - SAVONA, SAVONA, SAVONA
-Xuan, Qiang, I.I.S. ALDINI VALERIANI, BOLOGNA, BOLOGNA
-Gabriele, Maiolino, Liceo Scientifico Statale Galileo Ferraris, TORINO, TORINO
-Luigi, Fanuzzi, LS CANUDO - LC MARONE, GIOIA DEL COLLE, BARI
-Vincenzo, Turturro, I.I.S.S. GALILEO FERRARIS, MOLFETTA, BARI
-Jacopo, Martellotto, LICEO SCIENTIFICO DE GIORGI LECCE, LECCE, LECCE
-Riccardo, Pizzaleo, Liceo Scientifico G. Battaglini, TARANTO, TARANTO
-Matteo, Lotito, I.I.S.S. AUGUSTO RIGHI, CERIGNOLA, FOGGIA
-Antonio, Sgalla, I.I.S. VOLTERRA - ELIA, ANCONA, ANCONA
-Andrea, Salvatori, ITTS Alessandro Volta, PERUGIA, PERUGIA
-Alessio, Doria, IISS Enrico Fermi, LECCE, LECCE
-Lorenzo, Bianco, LICEO CLASSICO MUSICALE PALMIERI, LECCE, LECCE
-Marco, Colletti, ITIS Giulio Riva, SARONNO, VARESE
-Alessandro, Vettor, ITIS Max Planck, VILLORBA, TREVISO
-Alessio, Alchieri, I.I.S. G. GALILEI, CREMA, CREMONA
-Stefano, Raviola, ALESSANDRO ARTOM, ASTI, ASTI
-Roberto, Chiesa, LICEO NICCOLO' COPERNICO, BOLOGNA, BOLOGNA
-Iacop, Hafiane, I.T.I.S. Enrico Fermi, LUCCA, LUCCA
-Lorenzo, Bonora, I.T.I.S RIVA - SARONNO, SARONNO, VARESE
-Matteo, Mello, Liceo Scientifico Statale Galileo Ferraris, TORINO, TORINO
-Raffaele, Grieco, L.S. Lecce De Giorgi, LECCE, LECCE
-Kevin, Sciolti, IISS Enrico Fermi, LECCE, LECCE
-Francesco, Valentini, ENRICO MATTEI, RECANATI, MACERATA
-Suqi, Chen, LS L. DA VINCI, TREVISO, TREVISO
-Leonardo, Ferro, I.I.S. Volterra - Elia, ANCONA, ANCONA
-Lorenzo, Frohmüller, Liceo Orazio Grassi, SAVONA, SAVONA
-Simone, Mazzacano, Istituto Superiore Pascal Comandini, CESENA, FORLI'-CESENA
-Darius, Gavanescu, I.I.S. L.GEYMONAT - TRADATE, TRADATE, VARESE
-Andrea, Bissoli, Istituto Statale d'Istruzione Leonardo da Vinci, CEREA, VERONA
-Lorenzo, Reho, I.I.S.S. ANTONIO MEUCCI, CASARANO, LECCE
-Fabio, Brunetto, I.I.S. E. Majorana, TORINO, TORINO
-Gennaro, De, L.SC.LING. CUOCO-CAMPANELLA DI NAPOLI, NAPOLI, NAPOLI
-Lorenzo, Ferrari, GALILEO GALILEI - TRENTO, TRENTO, TRENTO
-Michele, Ghilardi, LICEO SCIENTIFICO STATALE LEONARDO, BRESCIA, BRESCIA
-Alexandru, Nechita, Istituto di Istruzione Superiore Luigi Di Savoia, CHIETI, CHIETI
-Sanino, Fabio, FOSSANO G.VALLAURI, FOSSANO, CUNEO
-Gioele, Pettarini, Liceo Scientifico Statale Niccolò Copernico, UDINE, UDINE
-Patrick, Turricelli, LICEO STATALE RINALDO CORSO, CORREGGIO, REGGIO EMILIA
-Alessio, Tosi, E. FERMI, ROMA, ROMA
-Stefano, Cavalletti, LICEO E ITS I. CALVINO, GENOVA, GENOVA
-Simone, Visconti, ITT GUIDO DORSO, AVELLINO, AVELLINO
-Raffaele, Feroce, ISTITUTO SUPERIORE GUGLIELMO MARCONI, GIUGLIANO IN CAMPANIA, NAPOLI
-Carmine, Spiezia, ITI G.FERRARIS-NAPOLI-, NAPOLI, NAPOLI
-Tsvetelin, Aleksiev, L. SAVOIA, CHIETI, CHIETI
-Francesco, Zambito, E. MAJORANA, GRUGLIASCO, TORINO
-Christian, Cecili, ITTS ALESSANDRO VOLTA TIVOLI, TIVOLI, ROMA
-Pierantonio, D'Agostino, I.I.S.S. G. MARCONI - MARGHERITA HACK, BARI, BARI
-Lorenzo, Bellina, T. BUZZI, PRATO, PRATO
-Tiziano, Radicchi, I.T.S.O.S. Marie Curie, CERNUSCO SUL NAVIGLIO, MILANO
-Filippo, Barbieri, G.SILVA-M.RICCI, LEGNAGO, VERONA
-Alessio, Pagano, I.I.S.S. Galileo Ferraris, MOLFETTA, BARI
-Ignazio, Spaccavento, I.I.S.S. GALILEO FERRARIS, MOLFETTA, BARI
-Alessandro, Melis, I.T.I. OTHOCA, ORISTANO, ORISTANO
-Michele, Sechi, ATTILIO DEFFENU, OLBIA, SASSARI
-Vincenzo, Petrillo, IIS Enrico Mattei, RECANATI, MACERATA
-Gabriele, Luciani, C.D'ASCANIO, MONTESILVANO, PESCARA
-Valentino, Badalucco, LS G.D.CASSINI -, GENOVA, GENOVA
-Marco, Casali, PASCAL-COMANDINI, CESENA, FORLI'-CESENA
-Gabriele, Marotta, F. BUONARROTI, PISA, PISA
-Gabriele, Tarantello, Liceo Orso Mario Corbino, SIRACUSA, SIRACUSA
-Luca, Mascetti, LICEO SCIENTIFICO G. B. GRASSI, SARONNO, VARESE
-Samuele, Cistaro, LICEO SCIENTIFICO DE GIORGI LECCE, LECCE, LECCE
-Mattia, Senni, PASCAL-COMANDINI, CESENA, FORLI'-CESENA
-Tahir, Aliu, E.FERMI, LUCCA, LUCCA
-Pietro, Foroni, GUGLIELMO MARCONI, VERONA, VERONA
-Giacomo, Boschi, Istituto Superiore Pascal Comandini, CESENA, FORLI'-CESENA
-Giuseppe, Ruggiero, ENRICO MATTEI, RECANATI, MACERATA
-Vincenzo, Gallina, ISIS Arturo Malignani, UDINE, UDINE
-Mirko, Cetorelli, ITTS ALESSANDRO VOLTA TIVOLI, TIVOLI, ROMA
-Diego, Cirillo, G. GALILEI, GORIZIA, GORIZIA
-Federico, Bartoli, SILVIO D'ARZO, MONTECCHIO EMILIA, REGGIO EMILIA
-Mattia, Lorenzo, Liceo Scientifico Statale Galileo Ferraris, TORINO, TORINO
-Emanuele, Gaetano, L. DA VINCI, PESCARA, PESCARA
-Giuseppe, Cisternino, I.I.S.S. VOLTA - DE GEMMIS, BITONTO, BARI
-Gaetano, Picciariello, I.I.S.S. VOLTA - DE GEMMIS, BITONTO, BARI
-Damiano, Nicolussi, Istituto Di Istruzione Martino Martini, MEZZOLOMBARDO, TRENTO
-Leonardo, Carlo, BANFI, VIMERCATE, MONZA E DELLA BRIANZA
-Nicolò, Piccini, L.DI SAVOIA - G. BENINCASA, ANCONA, ANCONA
-Simone, Ravera, A.AVOGADRO, TORINO, TORINO
-Danilo, Manco, A. VOLTA, PESCARA, PESCARA
-Gioele, Carletti, L.DI SAVOIA - G. BENINCASA, ANCONA, ANCONA
-Lorenzo, De, I.I.S.S. E. FERMI, LECCE, LECCE
-Emanuele, Valeri, GIANCARLO VALLAURI, VELLETRI, ROMA
-Federico, Benoni, Istituto Tecnico C. A. Pilati, CLES, TRENTO
-Lorenzo, Galli, F. BUONARROTI, PISA, PISA
-Emanuel, Mihali, I.T.S.O.S. Marie Curie, CERNUSCO SUL NAVIGLIO, MILANO
-Gianluca, Fusco, I.S.-ITCG-L.SC.-L.DA VINCI-POGGIOMARINO, POGGIOMARINO, NAPOLI
-Paolo, Buso, LS L. DA VINCI, TREVISO, TREVISO
-Carmelo, Seminara, I.I.S.LICEO C. MARCHESI CL./SC., MASCALUCIA, CATANIA
-Francesco, Conti, I.I.S. RAMACCA-PALAGONIA, RAMACCA, CATANIA
-Alberto, Vona, E. FERMI, ROMA, ROMA
-Andrea, Consonni, ALBERT EINSTEIN, VIMERCATE, MONZA E DELLA BRIANZA
-Diego, Satta, PASCAL-COMANDINI, CESENA, FORLI'-CESENA
-Gabriele, Casula, I.T.I. OTHOCA, ORISTANO, ORISTANO
-Carlo, Comotti, BANFI, VIMERCATE, MONZA E DELLA BRIANZA
-Giampaolo, Boccardi, I.I.S.S. LUIGI DELL'ERBA, CASTELLANA GROTTE, BARI
-Eduardo, Calista, LICEO SCIENTIFICO G. BATTAGLINI, TARANTO, TARANTO
-Davide, Antonio, I.I.S.S. E. FERMI, LECCE, LECCE
-Roberto, Pisu, PASCAL-COMANDINI, CESENA, FORLI'-CESENA
-Alessandro, Martini, G.SILVA-M.RICCI, LEGNAGO, VERONA
-An, Chen, I.S. EINAUDI - SCARPA, MONTEBELLUNA, TREVISO
-Antonio, Coltraro, FRANCESCO REDI, PATERNO', CATANIA
-Neil, Alessandro, MAGISTRI CUMACINI, COMO, COMO
-Oscar, Forte, LICEO SCIENTIFICO G. B. GRASSI, SARONNO, VARESE
-Cristian, Nicosia, ITI S.AGATA M.LLO TORRICELLI, SANT'AGATA DI MILITELLO, MESSINA
-Niccolò, Lucozzi, E. DIVINI, SAN SEVERINO MARCHE, MACERATA
-Daniel, Tranchitella, ITI ETTORE MAJORANA, SAN LAZZARO DI SAVENA, BOLOGNA
-Leonardo, Forconi, E. DIVINI, SAN SEVERINO MARCHE, MACERATA
-Gabriella, Xenia, LS PAOLA, PAOLA, COSENZA
-Giuseppe, Pasquariello, Liceo Scientifico “Carlo Pisacane, PADULA, SALERNO
-Andrea, Pastore, MARGHERITA HACK, BARI, BARI
-Alessandro, Zanzi, LICEO SCIENTIFICO SCIENZE APPLICATE MONS. ENRICO MANFREDINI, VARESE, VARESE
-Mehdi, Zribi, LICEO SCIENTIFICO G. B. GRASSI, SARONNO, VARESE
-Manuel, Ubaldi, E. MAJORANA, GRUGLIASCO, TORINO
-Michele, Vincenzo, IIS ACRI LC - LS V. JULIA, ACRI, COSENZA
-Pierluigi, De, I.I.S.S. Galileo Ferraris, MOLFETTA, BARI
-Lorenzo, Massi, LS M.CURIE, GIULIANOVA, TERAMO
-Gabriele, Nonnis, LICEO CLASS/SC. EUCLIDE CAGLIARI, CAGLIARI, CAGLIARI
-Cristian, Calabrese, ITI S.AGATA M.LLO TORRICELLI, SANT'AGATA DI MILITELLO, MESSINA
-Giulio, Furlan, ITST KENNEDY, PORDENONE, PORDENONE
-Giovanni, Orzincolo, ISIS A. MALIGNANI UDINE, UDINE, UDINE
-Jacopo, Di, I.T.S.O.S. Marie Curie, CERNUSCO SUL NAVIGLIO, MILANO
-Alessandro, Zanier, ISIS Arturo Malignani, UDINE, UDINE
-Salvatore, Abello, IISS G.Marconi M.Hack, BARI, BARI
-Riccardo, Sulis, IIS Dionigi Scano, CAGLIARI, CAGLIARI
-Davide, Castellani, Istituto Tecnico Industriale Statale G. Marconi, VERONA, VERONA
-Pimen, Flavian, Istituto Tecnico Industriale Avogadro, TORINO, TORINO
-Lorenzo, Cipolletti, Liceo Statale Maria Montessori, ROMA, ROMA
-Romeo, Biancalani, ITS Tullio Buzzi, PRATO, PRATO
-Mattia, Perfumo, Istituto di Istruzione Superiore Caramuel - Roncalli, VIGEVANO, PAVIA
-Riccardo, Azuni, I.I.S.G. Vallauri, FOSSANO, CUNEO
-Andrea, Sinibaldi, Istituto Tecnico Industriale Statale Alessandro Rossi, VICENZA, VICENZA
-Tommaso, Ventafridda, Istituto D'Istruzione Superiore Albert Einstein, VIMERCATE, MONZA E DELLA BRIANZA
-Mattia, Lembo, IISS Benedetto Radice, BRONTE, CATANIA
-Christian, Moccia, ITS Tullio Buzzi, PRATO, PRATO
-John, Toniutti, ISIS Arturo Malignani, UDINE, UDINE
-Oscar, Urselli, Liceo Statale Moscati, GROTTAGLIE, TARANTO
-Riccardo, Moiso, I.I.S. E. Majorana, TORINO, TORINO
-Matteo, Ferdinando, ITT Guide Dorso, AVELLINO, AVELLINO
-Anthony, Gerardo, Liceo Scientifico “Carlo Pisacane, PADULA, SALERNO
-Giovanni, Santini, Liceo Scientifico Statale E.Medi, SENIGALLIA, ANCONA
-Gabriele, Muolo, I.I.S.S. Luigi dell'Erba, CASTELLANA GROTTE, BARI
-Giacomo, Gelormini, Liceo Statale Tito Lucrezio Caro, SARNO, SALERNO
-Andrea, Gordanelli, Istituto Tecnico Ettore Majorana, GRUGLIASCO, TORINO
-Tommaso, Abitante, ITIS Enrico Fermi, ROMA, ROMA
-Valerio, Leonetti, ITIS Enrico Fermi, ROMA, ROMA
-Mariano, Riefolo, Istituto Tecnico Cassandro Fermi Nervi, BARLETTA, BARLETTA-ANDRIA-TRANI
-Eric, Aquilotti, Istituto Superiore Pascal Comandini, CESENA, FORLI'-CESENA
-Stefano, Pavesi, Istituto Istruzione Superiore A.Volta, LODI, LODI
-Davide, Cossidente, Istituto Tecnico Settore Tecnologico J.F.Kennedy, PORDENONE, PORDENONE
-Andrea, Leone, Istituto Istruzione Superiore E. Fermi – Guttuso, GIARRE, CATANIA
-Simone, Saya, Liceo Scientifico Gian Domenico Cassini, GENOVA, GENOVA
-Matteo, Andreoni, ITS Tullio Buzzi, PRATO, PRATO
-Andrea, Squitieri, ITT Basilio Focaccia, SALERNO, SALERNO
-Francesco, De, I.I.S.S. Ettore Majorana, BRINDISI, BRINDISI
-Stefano, Liotti, I.T.I.S. Magistri Cumacini, COMO, COMO
-Davide, Zanaletti, Istituto Istruzione Superiore A.Volta, LODI, LODI
-Pietro, Maretti, Istituto Tecnico Industriale e Professionale L. Bucci, FAENZA, RAVENNA
-Andrea, Tempesta, I.I.S.S. Galileo Ferraris, MOLFETTA, BARI
-Jacopo, Bonati, ITIS Leonardo da Vinci, PARMA, PARMA
-Andrea, Sangiovanni, Istituto di Istruzione Superiore Federico Caffè, ROMA, ROMA
-Zaki, Pedio, Istituto Tecnico Industriale Statale G. Marconi, VERONA, VERONA
-Marco, Beltrame, ISIS Arturo Malignani, UDINE, UDINE
-Francesco, Aliprandi, Istituto Istruzione Superiore A.Volta, LODI, LODI
-Massimo, Sanna, IIS Dionigi Scano, CAGLIARI, CAGLIARI
-Alessandro, Rizzo, Liceo Classico Statale G. Palmieri, LECCE, LECCE
-Alessandro, Tuillier, Liceo Scientifico Gian Domenico Cassini, GENOVA, GENOVA
-Alessandro, Varotto, Istituto Istruzione Superiore A.Volta, LODI, LODI
-Daniel, Fragrante, Liceo Scientifico Statale Niccolò Copernico, UDINE, UDINE
-Marco, Mazzeo, Liceo Filippo Buonarroti, PISA, PISA
-Giacomo, Carbonara, IISS G.Marconi M.Hack, BARI, BARI
-Giuseppe, Karol, I.I.S.S. Luigi dell'Erba, CASTELLANA GROTTE, BARI
-Michele, Pio, I.I.S.S. Luigi dell'Erba, CASTELLANA GROTTE, BARI
-Andrea, Pulga, I.I.S. Guido Monaco di Pomposa, CODIGORO, FERRARA
-Chiara, Luna, Istituto Tecnico Industriale Statale G. Marconi, VERONA, VERONA
-Thomas, Prenner, Liceo Scientifico Statale Niccolò Copernico, UDINE, UDINE
-Karim, Abbassi, ITT Leonardo da Vinci, FOLIGNO, PERUGIA
-Luca, Papagni, I.I.S.S. Galileo Ferraris, MOLFETTA, BARI
-Francesco, Spada, IISS Enrico Fermi, LECCE, LECCE
-Pietro, Giampaolo, Istituto Tecnico Industriale Statale G. Marconi, VERONA, VERONA
-Andrea, Laforgia, I.I.S. Guido Monaco di Pomposa, CODIGORO, FERRARA
+nome,cognome,scuola,comune,provincia
+Carlo,Collodel,Istituto Superiore Antonio Scarpa,MOTTA DI LIVENZA,TREVISO
+Tito,Sacchi,Istituto Superiore “Taramelli - Foscolo,PAVIA,PAVIA
+Luca,Palumbo,IM STATALE LORENZINI,PESCIA,PISTOIA
+Eyad Lorenzo,Issa,L.S. E L. SC. UM. O.M.CORBINO SIRACUSA,SIRACUSA,SIRACUSA
+Antonio,Napolitano,LS L. DA VINCI,TREVISO,TREVISO
+Robert-Georgian,Nitu,I.T.T. EINST.-DE LOR. SEZ.ITIS POTENZA,POTENZA,POTENZA
+Matteo,Schiff,M. CURIE,PINEROLO,TORINO
+Domingo,Dirutigliano,I.I.S.S. Luigi dell'Erba,CASTELLANA GROTTE,BARI
+Giacomo,Arienti,I.T.S.E. R. Valturio,RIMINI,RIMINI
+Simone,Petroni,I.S.S. Fazzini-Mercantini,GROTTAMMARE,ASCOLI PICENO
+Giovanni,Spadaccini,SCARUFFI LEVI TRICOLORE,REGGIO NELL'EMILIA,REGGIO EMILIA
+Luigi,Loffredo,Liceo Scientifico Cuoco - Campanella,NAPOLI,NAPOLI
+Maxim,Ozolin,G.MARCONI,PESARO,PESARO E URBINO
+Domenico,Rotolo,I.I.S.S. L. DA VINCI - AGHERBINO,NOCI,BARI
+Taulant,Arapi,GALILEO GALILEI - TRENTO,TRENTO,TRENTO
+Gabriele,Fazio,LICEO ORAZIO GRASSI - SAVONA,SAVONA,SAVONA
+Xuan Qiang,Huang,I.I.S. ALDINI VALERIANI,BOLOGNA,BOLOGNA
+Gabriele,Maiolino,Liceo Scientifico Statale Galileo Ferraris,TORINO,TORINO
+Luigi,Fanuzzi,LS CANUDO - LC MARONE,GIOIA DEL COLLE,BARI
+Vincenzo,Turturro,I.I.S.S. GALILEO FERRARIS,MOLFETTA,BARI
+Jacopo,Martellotto,LICEO SCIENTIFICO DE GIORGI LECCE,LECCE,LECCE
+Riccardo,Pizzaleo,Liceo Scientifico G. Battaglini,TARANTO,TARANTO
+Matteo,Lotito,I.I.S.S. AUGUSTO RIGHI,CERIGNOLA,FOGGIA
+Antonio,Sgalla,I.I.S. VOLTERRA - ELIA,ANCONA,ANCONA
+Andrea,Salvatori,ITTS Alessandro Volta,PERUGIA,PERUGIA
+Alessio,Doria,IISS Enrico Fermi,LECCE,LECCE
+Lorenzo,Bianco,LICEO CLASSICO MUSICALE PALMIERI,LECCE,LECCE
+Marco,Colletti,ITIS Giulio Riva,SARONNO,VARESE
+Alessandro,Vettor,ITIS Max Planck,VILLORBA,TREVISO
+Alessio,Alchieri,I.I.S. G. GALILEI,CREMA,CREMONA
+Stefano,Raviola,ALESSANDRO ARTOM,ASTI,ASTI
+Roberto,Chiesa,LICEO NICCOLO' COPERNICO,BOLOGNA,BOLOGNA
+Iacop,Hafiane,I.T.I.S. Enrico Fermi,LUCCA,LUCCA
+Lorenzo,Bonora,I.T.I.S RIVA - SARONNO,SARONNO,VARESE
+Matteo,Mello,Liceo Scientifico Statale Galileo Ferraris,TORINO,TORINO
+Raffaele,Grieco,L.S. Lecce De Giorgi,LECCE,LECCE
+Kevin,Sciolti,IISS Enrico Fermi,LECCE,LECCE
+Francesco,Valentini,ENRICO MATTEI,RECANATI,MACERATA
+Suqi,Chen,LS L. DA VINCI,TREVISO,TREVISO
+Leonardo,Ferro,I.I.S. Volterra - Elia,ANCONA,ANCONA
+Lorenzo,Frohmüller,Liceo Orazio Grassi,SAVONA,SAVONA
+Simone,Mazzacano,Istituto Superiore Pascal Comandini,CESENA,FORLI'-CESENA
+Darius,Gavanescu,I.I.S. L.GEYMONAT - TRADATE,TRADATE,VARESE
+Andrea,Bissoli,Istituto Statale d'Istruzione Leonardo da Vinci,CEREA,VERONA
+Lorenzo,Reho,I.I.S.S. ANTONIO MEUCCI,CASARANO,LECCE
+Fabio,Brunetto,I.I.S. E. Majorana,TORINO,TORINO
+Gennaro,De Gregorio,L.SC.LING. CUOCO-CAMPANELLA DI NAPOLI,NAPOLI,NAPOLI
+Lorenzo,Ferrari,GALILEO GALILEI - TRENTO,TRENTO,TRENTO
+Michele,Ghilardi,LICEO SCIENTIFICO STATALE LEONARDO,BRESCIA,BRESCIA
+Alexandru,Nechita,Istituto di Istruzione Superiore Luigi Di Savoia,CHIETI,CHIETI
+Sanino,Fabio,FOSSANO G.VALLAURI,FOSSANO,CUNEO
+Gioele,Pettarini,Liceo Scientifico Statale Niccolò Copernico,UDINE,UDINE
+Patrick,Turricelli,LICEO STATALE RINALDO CORSO,CORREGGIO,REGGIO EMILIA
+Alessio,Tosi,E. FERMI,ROMA,ROMA
+Stefano,Cavalletti,LICEO E ITS I. CALVINO,GENOVA,GENOVA
+Simone,Visconti,ITT GUIDO DORSO,AVELLINO,AVELLINO
+Raffaele,Feroce,ISTITUTO SUPERIORE GUGLIELMO MARCONI,GIUGLIANO IN CAMPANIA,NAPOLI
+Carmine,Spiezia,ITI G.FERRARIS-NAPOLI-,NAPOLI,NAPOLI
+Tsvetelin,Aleksiev,L. SAVOIA,CHIETI,CHIETI
+Francesco,Zambito,E. MAJORANA,GRUGLIASCO,TORINO
+Christian,Cecili,ITTS ALESSANDRO VOLTA TIVOLI,TIVOLI,ROMA
+Pierantonio,D'Agostino,I.I.S.S. G. MARCONI - MARGHERITA HACK,BARI,BARI
+Lorenzo,Bellina,T. BUZZI,PRATO,PRATO
+Tiziano,Radicchi,I.T.S.O.S. Marie Curie,CERNUSCO SUL NAVIGLIO,MILANO
+Filippo,Barbieri,G.SILVA-M.RICCI,LEGNAGO,VERONA
+Alessio,Pagano,I.I.S.S. Galileo Ferraris,MOLFETTA,BARI
+Ignazio,Spaccavento,I.I.S.S. GALILEO FERRARIS,MOLFETTA,BARI
+Alessandro,Melis,I.T.I. OTHOCA,ORISTANO,ORISTANO
+Michele,Sechi,ATTILIO DEFFENU,OLBIA,SASSARI
+Vincenzo,Petrillo,IIS Enrico Mattei,RECANATI,MACERATA
+Gabriele,Luciani,C.D'ASCANIO,MONTESILVANO,PESCARA
+Valentino,Badalucco,LS G.D.CASSINI -,GENOVA,GENOVA
+Marco,Casali,PASCAL-COMANDINI,CESENA,FORLI'-CESENA
+Gabriele,Marotta,F. BUONARROTI,PISA,PISA
+Gabriele,Tarantello,Liceo Orso Mario Corbino,SIRACUSA,SIRACUSA
+Luca,Mascetti,LICEO SCIENTIFICO G. B. GRASSI,SARONNO,VARESE
+Samuele,Cistaro,LICEO SCIENTIFICO DE GIORGI LECCE,LECCE,LECCE
+Mattia,Senni,PASCAL-COMANDINI,CESENA,FORLI'-CESENA
+Tahir,Aliu,E.FERMI,LUCCA,LUCCA
+Pietro,Foroni,GUGLIELMO MARCONI,VERONA,VERONA
+Giacomo,Boschi,Istituto Superiore Pascal Comandini,CESENA,FORLI'-CESENA
+Giuseppe,Ruggiero,ENRICO MATTEI,RECANATI,MACERATA
+Vincenzo,Gallina,ISIS Arturo Malignani,UDINE,UDINE
+Mirko,Cetorelli,ITTS ALESSANDRO VOLTA TIVOLI,TIVOLI,ROMA
+Diego,Cirillo,G. GALILEI,GORIZIA,GORIZIA
+Federico,Bartoli,SILVIO D'ARZO,MONTECCHIO EMILIA,REGGIO EMILIA
+Mattia Lorenzo,Chiabrando,Liceo Scientifico Statale Galileo Ferraris,TORINO,TORINO
+Emanuele Gaetano,Morales,L. DA VINCI,PESCARA,PESCARA
+Giuseppe,Cisternino,I.I.S.S. VOLTA - DE GEMMIS,BITONTO,BARI
+Gaetano,Picciariello,I.I.S.S. VOLTA - DE GEMMIS,BITONTO,BARI
+Damiano,Nicolussi,Istituto Di Istruzione Martino Martini,MEZZOLOMBARDO,TRENTO
+Leonardo Carlo,Conti,BANFI,VIMERCATE,MONZA E DELLA BRIANZA
+Nicolò,Piccini,L.DI SAVOIA - G. BENINCASA,ANCONA,ANCONA
+Simone,Ravera,A.AVOGADRO,TORINO,TORINO
+Danilo,Manco,A. VOLTA,PESCARA,PESCARA
+Gioele,Carletti,L.DI SAVOIA - G. BENINCASA,ANCONA,ANCONA
+Lorenzo,De Giorgi,I.I.S.S. E. FERMI,LECCE,LECCE
+Emanuele,Valeri,GIANCARLO VALLAURI,VELLETRI,ROMA
+Federico,Benoni,Istituto Tecnico C. A. Pilati,CLES,TRENTO
+Lorenzo,Galli,F. BUONARROTI,PISA,PISA
+Emanuel,Mihali,I.T.S.O.S. Marie Curie,CERNUSCO SUL NAVIGLIO,MILANO
+Gianluca,Fusco,I.S.-ITCG-L.SC.-L.DA VINCI-POGGIOMARINO,POGGIOMARINO,NAPOLI
+Paolo,Buso,LS L. DA VINCI,TREVISO,TREVISO
+Carmelo,Seminara,I.I.S.LICEO C. MARCHESI CL./SC.,MASCALUCIA,CATANIA
+Francesco,Conti,I.I.S. RAMACCA-PALAGONIA,RAMACCA,CATANIA
+Alberto,Vona,E. FERMI,ROMA,ROMA
+Andrea,Consonni,ALBERT EINSTEIN,VIMERCATE,MONZA E DELLA BRIANZA
+Diego,Satta,PASCAL-COMANDINI,CESENA,FORLI'-CESENA
+Gabriele,Casula,I.T.I. OTHOCA,ORISTANO,ORISTANO
+Carlo,Comotti,BANFI,VIMERCATE,MONZA E DELLA BRIANZA
+Giampaolo,Boccardi,I.I.S.S. LUIGI DELL'ERBA,CASTELLANA GROTTE,BARI
+Eduardo,Calista,LICEO SCIENTIFICO G. BATTAGLINI,TARANTO,TARANTO
+Davide Antonio,Miglietta,I.I.S.S. E. FERMI,LECCE,LECCE
+Roberto,Pisu,PASCAL-COMANDINI,CESENA,FORLI'-CESENA
+Alessandro,Martini,G.SILVA-M.RICCI,LEGNAGO,VERONA
+An,Chen,I.S. EINAUDI - SCARPA,MONTEBELLUNA,TREVISO
+Antonio,Coltraro,FRANCESCO REDI,PATERNO',CATANIA
+Neil Alessandro,Melgar Gomez,MAGISTRI CUMACINI,COMO,COMO
+Oscar,Forte,LICEO SCIENTIFICO G. B. GRASSI,SARONNO,VARESE
+Cristian,Nicosia,ITI S.AGATA M.LLO TORRICELLI,SANT'AGATA DI MILITELLO,MESSINA
+Niccolò,Lucozzi,E. DIVINI,SAN SEVERINO MARCHE,MACERATA
+Daniel,Tranchitella,ITI ETTORE MAJORANA,SAN LAZZARO DI SAVENA,BOLOGNA
+Leonardo,Forconi,E. DIVINI,SAN SEVERINO MARCHE,MACERATA
+Gabriella Xenia,Talarico,LS PAOLA,PAOLA,COSENZA
+Giuseppe,Pasquariello,Liceo Scientifico “Carlo Pisacane,PADULA,SALERNO
+Andrea,Pastore,MARGHERITA HACK,BARI,BARI
+Alessandro,Zanzi,LICEO SCIENTIFICO SCIENZE APPLICATE MONS. ENRICO MANFREDINI,VARESE,VARESE
+Mehdi,Zribi,LICEO SCIENTIFICO G. B. GRASSI,SARONNO,VARESE
+Manuel,Ubaldi,E. MAJORANA,GRUGLIASCO,TORINO
+Michele Vincenzo,Branca,IIS ACRI LC - LS V. JULIA,ACRI,COSENZA
+Pierluigi,De Palo,I.I.S.S. Galileo Ferraris,MOLFETTA,BARI
+Lorenzo,Massi,LS M.CURIE,GIULIANOVA,TERAMO
+Gabriele,Nonnis,LICEO CLASS/SC. EUCLIDE CAGLIARI,CAGLIARI,CAGLIARI
+Cristian,Calabrese,ITI S.AGATA M.LLO TORRICELLI,SANT'AGATA DI MILITELLO,MESSINA
+Giulio,Furlan,ITST KENNEDY,PORDENONE,PORDENONE
+Giovanni,Orzincolo,ISIS A. MALIGNANI UDINE,UDINE,UDINE
+Andrea,Tempesta,I.I.S.S. Galileo Ferraris,MOLFETTA,BARI
+Jacopo,Di Pumpo,I.T.S.O.S. Marie Curie,CERNUSCO SUL NAVIGLIO,MILANO
+Alessandro,Zanier,ISIS Arturo Malignani,UDINE,UDINE
+Salvatore,Abello,IISS G.Marconi M.Hack,BARI,BARI
+Riccardo,Sulis,IIS Dionigi Scano,CAGLIARI,CAGLIARI
+Davide,Castellani,Istituto Tecnico Industriale Statale G. Marconi,VERONA,VERONA
+Pimen Flavian,Dei,Istituto Tecnico Industriale Avogadro,TORINO,TORINO
+Lorenzo,Cipolletti,Liceo Statale Maria Montessori,ROMA,ROMA
+Romeo,Biancalani,ITS Tullio Buzzi,PRATO,PRATO
+Mattia,Perfumo,Istituto di Istruzione Superiore Caramuel - Roncalli,VIGEVANO,PAVIA
+Riccardo,Azuni,I.I.S.G. Vallauri,FOSSANO,CUNEO
+Andrea,Sinibaldi,Istituto Tecnico Industriale Statale Alessandro Rossi,VICENZA,VICENZA
+Tommaso,Ventafridda,Istituto D'Istruzione Superiore Albert Einstein,VIMERCATE,MONZA E DELLA BRIANZA
+Mattia,Lembo,IISS Benedetto Radice,BRONTE,CATANIA
+Christian,Moccia,ITS Tullio Buzzi,PRATO,PRATO
+John,Toniutti,ISIS Arturo Malignani,UDINE,UDINE
+Oscar,Urselli,Liceo Statale Moscati,GROTTAGLIE,TARANTO
+Riccardo,Moiso,I.I.S. E. Majorana,TORINO,TORINO
+Matteo Ferdinando,Emolo,ITT Guide Dorso,AVELLINO,AVELLINO
+Anthony Gerardo,Giuliano,Liceo Scientifico “Carlo Pisacane,PADULA,SALERNO
+Giovanni,Santini,Liceo Scientifico Statale E.Medi,SENIGALLIA,ANCONA
+Gabriele,Muolo,I.I.S.S. Luigi dell'Erba,CASTELLANA GROTTE,BARI
+Giacomo,Gelormini,Liceo Statale Tito Lucrezio Caro,SARNO,SALERNO
+Andrea,Gordanelli,Istituto Tecnico Ettore Majorana,GRUGLIASCO,TORINO
+Tommaso,Abitante,ITIS Enrico Fermi,ROMA,ROMA
+Valerio,Leonetti,ITIS Enrico Fermi,ROMA,ROMA
+Mariano,Riefolo,Istituto Tecnico Cassandro Fermi Nervi,BARLETTA,BARLETTA-ANDRIA-TRANI
+Eric,Aquilotti,Istituto Superiore Pascal Comandini,CESENA,FORLI'-CESENA
+Stefano,Pavesi,Istituto Istruzione Superiore A.Volta,LODI,LODI
+Davide,Cossidente,Istituto Tecnico Settore Tecnologico J.F.Kennedy,PORDENONE,PORDENONE
+Andrea,Leone,Istituto Istruzione Superiore E. Fermi – Guttuso,GIARRE,CATANIA
+Simone,Saya,Liceo Scientifico Gian Domenico Cassini,GENOVA,GENOVA
+Matteo,Andreoni,ITS Tullio Buzzi,PRATO,PRATO
+Andrea,Squitieri,ITT Basilio Focaccia,SALERNO,SALERNO
+Francesco,De Benedittis,I.I.S.S. Ettore Majorana,BRINDISI,BRINDISI
+Stefano,Liotti,I.T.I.S. Magistri Cumacini,COMO,COMO
+Davide,Zanaletti,Istituto Istruzione Superiore A.Volta,LODI,LODI
+Pietro,Maretti,Istituto Tecnico Industriale e Professionale L. Bucci,FAENZA,RAVENNA
+Jacopo,Bonati,ITIS Leonardo da Vinci,PARMA,PARMA
+Andrea,Sangiovanni,Istituto di Istruzione Superiore Federico Caffè,ROMA,ROMA
+Zaki,Pedio,Istituto Tecnico Industriale Statale G. Marconi,VERONA,VERONA
+Marco,Beltrame,ISIS Arturo Malignani,UDINE,UDINE
+Francesco,Aliprandi,Istituto Istruzione Superiore A.Volta,LODI,LODI
+Massimo,Sanna,IIS Dionigi Scano,CAGLIARI,CAGLIARI
+Alessandro,Rizzo,Liceo Classico Statale G. Palmieri,LECCE,LECCE
+Alessandro,Tuillier,Liceo Scientifico Gian Domenico Cassini,GENOVA,GENOVA
+Alessandro,Varotto,Istituto Istruzione Superiore A.Volta,LODI,LODI
+Daniel,Fragrante,Liceo Scientifico Statale Niccolò Copernico,UDINE,UDINE
+Marco,Mazzeo,Liceo Filippo Buonarroti,PISA,PISA
+Giacomo,Carbonara,IISS G.Marconi M.Hack,BARI,BARI
+Giuseppe Karol,Ressa,I.I.S.S. Luigi dell'Erba,CASTELLANA GROTTE,BARI
+Michele Pio,Armenise,I.I.S.S. Luigi dell'Erba,CASTELLANA GROTTE,BARI
+Andrea,Pulga,I.I.S. Guido Monaco di Pomposa,CODIGORO,FERRARA
+Chiara Luna,Cetojevic,Istituto Tecnico Industriale Statale G. Marconi,VERONA,VERONA
+Thomas,Prenner,Liceo Scientifico Statale Niccolò Copernico,UDINE,UDINE
+Karim,Abbassi,ITT Leonardo da Vinci,FOLIGNO,PERUGIA
+Luca,Papagni,I.I.S.S. Galileo Ferraris,MOLFETTA,BARI
+Francesco,Spada,IISS Enrico Fermi,LECCE,LECCE
+Pietro Giampaolo,Secchi,Istituto Tecnico Industriale Statale G. Marconi,VERONA,VERONA
+Andrea,Laforgia,I.I.S. Guido Monaco di Pomposa,CODIGORO,FERRARA
+Simone,Pinto,Istituto Tecnico Industriale e Professionale L. Bucci,FAENZA,RAVENNA

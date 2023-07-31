@@ -21,8 +21,8 @@
   "provincia": "PISTOIA"
  },
  {
-  "nome": "Eyad",
-  "cognome": "Lorenzo",
+  "nome": "Eyad Lorenzo",
+  "cognome": "Issa",
   "scuola": "L.S. E L. SC. UM. O.M.CORBINO SIRACUSA",
   "comune": "SIRACUSA",
   "provincia": "SIRACUSA"
@@ -112,8 +112,8 @@
   "provincia": "SAVONA"
  },
  {
-  "nome": "Xuan",
-  "cognome": "Qiang",
+  "nome": "Xuan Qiang",
+  "cognome": "Huang",
   "scuola": "I.I.S. ALDINI VALERIANI",
   "comune": "BOLOGNA",
   "provincia": "BOLOGNA"
@@ -323,7 +323,7 @@
  },
  {
   "nome": "Gennaro",
-  "cognome": "De",
+  "cognome": "De Gregorio",
   "scuola": "L.SC.LING. CUOCO-CAMPANELLA DI NAPOLI",
   "comune": "NAPOLI",
   "provincia": "NAPOLI"
@@ -602,15 +602,15 @@
   "provincia": "REGGIO EMILIA"
  },
  {
-  "nome": "Mattia",
-  "cognome": "Lorenzo",
+  "nome": "Mattia Lorenzo",
+  "cognome": "Chiabrando",
   "scuola": "Liceo Scientifico Statale Galileo Ferraris",
   "comune": "TORINO",
   "provincia": "TORINO"
  },
  {
-  "nome": "Emanuele",
-  "cognome": "Gaetano",
+  "nome": "Emanuele Gaetano",
+  "cognome": "Morales",
   "scuola": "L. DA VINCI",
   "comune": "PESCARA",
   "provincia": "PESCARA"
@@ -637,8 +637,8 @@
   "provincia": "TRENTO"
  },
  {
-  "nome": "Leonardo",
-  "cognome": "Carlo",
+  "nome": "Leonardo Carlo",
+  "cognome": "Conti",
   "scuola": "BANFI",
   "comune": "VIMERCATE",
   "provincia": "MONZA E DELLA BRIANZA"
@@ -673,7 +673,7 @@
  },
  {
   "nome": "Lorenzo",
-  "cognome": "De",
+  "cognome": "De Giorgi",
   "scuola": "I.I.S.S. E. FERMI",
   "comune": "LECCE",
   "provincia": "LECCE"
@@ -784,8 +784,8 @@
   "provincia": "TARANTO"
  },
  {
-  "nome": "Davide",
-  "cognome": "Antonio",
+  "nome": "Davide Antonio",
+  "cognome": "Miglietta",
   "scuola": "I.I.S.S. E. FERMI",
   "comune": "LECCE",
   "provincia": "LECCE"
@@ -819,8 +819,8 @@
   "provincia": "CATANIA"
  },
  {
-  "nome": "Neil",
-  "cognome": "Alessandro",
+  "nome": "Neil Alessandro",
+  "cognome": "Melgar Gomez",
   "scuola": "MAGISTRI CUMACINI",
   "comune": "COMO",
   "provincia": "COMO"
@@ -861,8 +861,8 @@
   "provincia": "MACERATA"
  },
  {
-  "nome": "Gabriella",
-  "cognome": "Xenia",
+  "nome": "Gabriella Xenia",
+  "cognome": "Talarico",
   "scuola": "LS PAOLA",
   "comune": "PAOLA",
   "provincia": "COSENZA"
@@ -903,15 +903,15 @@
   "provincia": "TORINO"
  },
  {
-  "nome": "Michele",
-  "cognome": "Vincenzo",
+  "nome": "Michele Vincenzo",
+  "cognome": "Branca",
   "scuola": "IIS ACRI LC - LS V. JULIA",
   "comune": "ACRI",
   "provincia": "COSENZA"
  },
  {
   "nome": "Pierluigi",
-  "cognome": "De",
+  "cognome": "De Palo",
   "scuola": "I.I.S.S. Galileo Ferraris",
   "comune": "MOLFETTA",
   "provincia": "BARI"
@@ -952,8 +952,15 @@
   "provincia": "UDINE"
  },
  {
+  "nome": "Andrea",
+  "cognome": "Tempesta",
+  "scuola": "I.I.S.S. Galileo Ferraris",
+  "comune": "MOLFETTA",
+  "provincia": "BARI"
+ },
+ {
   "nome": "Jacopo",
-  "cognome": "Di",
+  "cognome": "Di Pumpo",
   "scuola": "I.T.S.O.S. Marie Curie",
   "comune": "CERNUSCO SUL NAVIGLIO",
   "provincia": "MILANO"
@@ -987,8 +994,8 @@
   "provincia": "VERONA"
  },
  {
-  "nome": "Pimen",
-  "cognome": "Flavian",
+  "nome": "Pimen Flavian",
+  "cognome": "Dei",
   "scuola": "Istituto Tecnico Industriale Avogadro",
   "comune": "TORINO",
   "provincia": "TORINO"
@@ -1071,15 +1078,15 @@
   "provincia": "TORINO"
  },
  {
-  "nome": "Matteo",
-  "cognome": "Ferdinando",
+  "nome": "Matteo Ferdinando",
+  "cognome": "Emolo",
   "scuola": "ITT Guide Dorso",
   "comune": "AVELLINO",
   "provincia": "AVELLINO"
  },
  {
-  "nome": "Anthony",
-  "cognome": "Gerardo",
+  "nome": "Anthony Gerardo",
+  "cognome": "Giuliano",
   "scuola": "Liceo Scientifico \u201cCarlo Pisacane",
   "comune": "PADULA",
   "provincia": "SALERNO"
@@ -1184,7 +1191,7 @@
  },
  {
   "nome": "Francesco",
-  "cognome": "De",
+  "cognome": "De Benedittis",
   "scuola": "I.I.S.S. Ettore Majorana",
   "comune": "BRINDISI",
   "provincia": "BRINDISI"
@@ -1209,13 +1216,6 @@
   "scuola": "Istituto Tecnico Industriale e Professionale L. Bucci",
   "comune": "FAENZA",
   "provincia": "RAVENNA"
- },
- {
-  "nome": "Andrea",
-  "cognome": "Tempesta",
-  "scuola": "I.I.S.S. Galileo Ferraris",
-  "comune": "MOLFETTA",
-  "provincia": "BARI"
  },
  {
   "nome": "Jacopo",
@@ -1302,15 +1302,15 @@
   "provincia": "BARI"
  },
  {
-  "nome": "Giuseppe",
-  "cognome": "Karol",
+  "nome": "Giuseppe Karol",
+  "cognome": "Ressa",
   "scuola": "I.I.S.S. Luigi dell'Erba",
   "comune": "CASTELLANA GROTTE",
   "provincia": "BARI"
  },
  {
-  "nome": "Michele",
-  "cognome": "Pio",
+  "nome": "Michele Pio",
+  "cognome": "Armenise",
   "scuola": "I.I.S.S. Luigi dell'Erba",
   "comune": "CASTELLANA GROTTE",
   "provincia": "BARI"
@@ -1323,8 +1323,8 @@
   "provincia": "FERRARA"
  },
  {
-  "nome": "Chiara",
-  "cognome": "Luna",
+  "nome": "Chiara Luna",
+  "cognome": "Cetojevic",
   "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
   "comune": "VERONA",
   "provincia": "VERONA"
@@ -1358,8 +1358,8 @@
   "provincia": "LECCE"
  },
  {
-  "nome": "Pietro",
-  "cognome": "Giampaolo",
+  "nome": "Pietro Giampaolo",
+  "cognome": "Secchi",
   "scuola": "Istituto Tecnico Industriale Statale G. Marconi",
   "comune": "VERONA",
   "provincia": "VERONA"
@@ -1370,5 +1370,12 @@
   "scuola": "I.I.S. Guido Monaco di Pomposa",
   "comune": "CODIGORO",
   "provincia": "FERRARA"
+ },
+ {
+  "nome": "Simone",
+  "cognome": "Pinto",
+  "scuola": "Istituto Tecnico Industriale e Professionale L. Bucci",
+  "comune": "FAENZA",
+  "provincia": "RAVENNA"
  }
 ]
