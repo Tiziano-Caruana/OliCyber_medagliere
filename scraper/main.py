@@ -66,7 +66,7 @@ def dump_editions(data):
 
 def dump_participants(data):
     """
-    if someone partecipated in more than one edition, they should only be counted once
+    if someone participated in more than one edition, they should only be counted once
     initially i used a set with (name, surname) as key, but i've decided it's best to overwrite old data
     and always use the latest info, for example in 2021 school names were abbreviated, in 2022, they weren't
     """
@@ -93,6 +93,50 @@ def dump_participants(data):
     dataframe = pd.DataFrame(participants)
     dataframe.to_csv('../data/participants.csv', index=False)
 
+def dump_medals(data):
+    n_golds = 5
+    n_silvers = 15
+    n_bronzes = 40
+
+    participants = {}
+
+    for edition in data.values():
+        # it's too early. this should only happen with the last (current) year
+        if "nazionale" not in edition:
+            continue
+
+        # a list of contestants sorted from highest to lowest score
+        leaderboard = sorted(edition["nazionale"], key=lambda x: x["punteggio"], reverse=True)
+
+        for i, contestant in enumerate(leaderboard):
+            if i >= n_bronzes:
+                continue
+
+            key = (contestant["nome"], contestant["cognome"])
+            if key not in participants:
+                participants[key] = {
+                    "nome": contestant["nome"],
+                    "cognome": contestant["cognome"],
+                    "oro": 0,
+                    "argento": 0,
+                    "bronzo": 0
+                }
+            
+            medal = "oro" if i < n_golds else "argento" if i < n_silvers else "bronzo"
+            participants[key][medal] += 1
+    
+    # convert to list of medaled participants in order from best to worst
+    participants = list(participants.values())
+    participants.sort(key=lambda x: (x['oro'], x['argento'], x['bronzo']),  reverse=True)
+
+    # dump to json
+    with open("../data/medagliere.json", "w") as f:
+        json.dump(participants, f, indent="	")
+    
+    # dump to csv
+    dataframe = pd.DataFrame(participants)
+    dataframe.to_csv('../data/medagliere.csv', index=False)
+
 def main():
     # fetch data for all editions
     editions = fetch_editions()
@@ -102,6 +146,9 @@ def main():
     
     # dump general data about all participants
     dump_participants(editions)
+
+    # dump data about anyone who ever won a medal, and what medal they got
+    dump_medals(editions)
 
 if __name__ == "__main__":
     main()
