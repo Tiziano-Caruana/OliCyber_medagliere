@@ -1,58 +1,74 @@
-from itertools import islice
-from time import sleep
 from bs4 import BeautifulSoup
 from requests import *
-from selenium import webdriver
-from selenium.webdriver.chromium.options import *
+import requests
+import json
 
-# Get da whole thing
-N = [136, 95]
-edizioni = ["2021", "2022"]
-driver = webdriver.Chrome()
+class TooEarlyException(Exception):
+    # this happens when trying to extract data for nationals for the current year when they haven't been held yet
+    ...
 
-for i, edizione in enumerate(edizioni):
-    driver.get(f"https://olicyber.it/edizioni/{edizione}")
+def get_all_editions_data():
+    """
+    the data we want is hardcoded in a JS file with name `main-es2015.{hex stuff}.js`
+    i think that hex stuff is an id which changes on site build, so i'm extracting it from the page html
+    """
 
+    # get the site's homepage
+    homepage_url = "https://olicyber.it/edizioni/2021" # it loads data for all editions no matter what edition you lookup
+    resp = requests.get(homepage_url)
+    html = resp.text
+    
+    # find the src of the target script
+    soup = BeautifulSoup(html, "html.parser")
+    scripts = soup.select("script")
+    target_script = next(filter(lambda tag: tag.attrs["src"].startswith("main"), scripts))
 
+    # get the script itself
+    script_url = "https://olicyber.it/" + target_script.attrs["src"]
+    resp = requests.get(script_url)
+    code = resp.text
 
+    # it's 1 object with data for all editions, in order. the first one was in 2021
+    left = code.index('{"2021":{"scolastica')
+    right = code.index("')", left)
+    data = code[left:right]
 
-    # Wait for all the table elements to load
-    sleep(5)
+    # remove escapes like \\ or \x or \'
+    data = data.encode().decode("unicode_escape")
 
-    page_source = driver.page_source
+    return json.loads(data)
 
-    # BS4
+def craft_csv(edition_data) -> str:
+    content = ""
+    
+    if "nazionale" not in edition_data:
+        raise TooEarlyException()
 
-    graduatoria = []
-    partecipante = []
-    result = ""
+    for contestant_data in edition_data["nazionale"]:
+        content += ", ".join([
+            str(contestant_data["posizione"]),
+            str(contestant_data["nome"]),
+            str(contestant_data["cognome"]),
+            str(contestant_data["punteggio"]),
+            str(contestant_data["scuola"]),
+            str(contestant_data["comune"]),
+            str(contestant_data["provincia"]),
+            str(contestant_data["classe"]),
+        ]) + '\n'
 
-    soup = BeautifulSoup(page_source, 'html.parser')
-    participants = soup.find_all('td')
+    return content
 
-    for participant in participants:
-        if " " in participant.text and "(" not in participant.text:
-            graduatoria.append(partecipante)
-            partecipante = []
-            partecipante.append(participant.text)
-        else:
-            partecipante.append(participant.text)
+def dump_data():
+    editions_data = get_all_editions_data()
+    
+    for year in editions_data.keys():
+        try:
+            csv_content = craft_csv(editions_data[year])
+        except TooEarlyException:
+            continue
 
+        with open(f"../data/{year}/graduatoria.csv", "w") as f:
+            f.write(csv_content)
 
-    # This works
-    graduatoria = list(islice(reversed(graduatoria), 0, N[i]))
-    graduatoria.reverse()
-
-    # Write data in CSV file
-    for i, partecipante in enumerate(graduatoria):
-        scuola = partecipante[2].split('(')[0].strip()
-        comune = partecipante[2].split('(')[1].split(',')[0].strip()
-        provincia = partecipante[2].split('(')[1].split(',')[1].split(')')[0].strip()
-        nome = partecipante[0].split(' ')[0]
-        cognome = partecipante[0].split(' ')[1]
-        result += f"{i+1}, {nome}, {cognome}, {partecipante[1]}, {scuola}, {comune}, {provincia}, {partecipante[3]}\n"
-
-    with open(f'../data/{edizione}/graduatoria.csv', 'w') as f:
-        f.write(result)
-
-
+if __name__ == "__main__":
+    dump_data()
