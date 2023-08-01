@@ -2,12 +2,10 @@ from bs4 import BeautifulSoup
 from requests import *
 import requests
 import json
+import os
+import pandas as pd
 
-class TooEarlyException(Exception):
-    # this happens when trying to extract data for nationals for the current year when they haven't been held yet
-    ...
-
-def get_all_editions_data():
+def fetch_editions():
     """
     the data we want is hardcoded in a JS file with name `main-es2015.{hex stuff}.js`
     i think that hex stuff is an id which changes on site build, so i'm extracting it from the page html
@@ -38,52 +36,119 @@ def get_all_editions_data():
 
     return json.loads(data)
 
-def craft_data(edition_data) -> str:
-    content = ""
-    json_content = []
-    
-    if "nazionale" not in edition_data:
-        raise TooEarlyException()
-
-    for contestant_data in edition_data["nazionale"]:
-        content += ", ".join([
-            str(contestant_data["posizione"]),
-            str(contestant_data["nome"]),
-            str(contestant_data["cognome"]),
-            str(contestant_data["punteggio"]),
-            str(contestant_data["scuola"]),
-            str(contestant_data["comune"]),
-            str(contestant_data["provincia"]),
-            str(contestant_data["classe"]),
-        ]) + '\n'
-
-        json_content.append({
-            "posizione": contestant_data["posizione"],
-            "nome": contestant_data["nome"],
-            "cognome": contestant_data["cognome"],
-            "punteggio": contestant_data["punteggio"],
-            "scuola": contestant_data["scuola"],
-            "comune": contestant_data["comune"],
-            "provincia": contestant_data["provincia"],
-            "classe": contestant_data["classe"],
-        })
-
-    return content, json_content
-
-def dump_data():
-    editions_data = get_all_editions_data()
-    
-    for year in editions_data.keys():
-        try:
-            csv_content, json_content = craft_data(editions_data[year])
-        except TooEarlyException:
+def dump_editions(data):
+    for year, edition in data.items():
+        # it's too early. this should only happen with the last (current) year
+        if "nazionale" not in edition:
             continue
+        
+        if not os.path.isdir(f"../data/{year}/"):
+            os.mkdir(f"../data/{year}/")
+
+        with open(f"../data/{year}/graduatoria.json", "w") as f:
+            json.dump(data[year]["nazionale"], f, indent="	")
+
+        csv_content = ""
+        for contestant in edition["nazionale"]:
+            csv_content += ", ".join([
+                str(contestant["posizione"]),
+                contestant["nome"],
+                contestant["cognome"],
+                str(contestant["punteggio"]),
+                contestant["scuola"],
+                contestant["comune"],
+                contestant["provincia"],
+                str(contestant["classe"]),
+            ]) + '\n'
 
         with open(f"../data/{year}/graduatoria.csv", "w") as f:
             f.write(csv_content)
 
-        with open(f"../data/{year}/graduatoria.json", "w") as f:
-            json.dump(json_content, f, indent=1)
+def dump_participants(data):
+    """
+    if someone participated in more than one edition, they should only be counted once
+    initially i used a set with (name, surname) as key, but i've decided it's best to overwrite old data
+    and always use the latest info, for example in 2021 school names were abbreviated, in 2022, they weren't
+    """
+    participants = {}
+
+    keys = ["nome", "cognome", "scuola", "comune", "provincia"]
+    for edition in data.values():
+        # it's too early. this should only happen with the last (current) year
+        if "nazionale" not in edition:
+            continue
+
+        for contestant in edition["nazionale"]:
+            key = (contestant["nome"], contestant["cognome"])
+            participants[key] = {k:contestant[k] for k in keys}
+            participants[key]["scuola"] = participants[key]["scuola"].replace('"', '')
+    
+    participants = list(participants.values())
+
+    # dump to json
+    with open("../data/participants.json", "w") as f:
+        json.dump(participants, f, indent="	")
+    
+    # dump to csv
+    dataframe = pd.DataFrame(participants)
+    dataframe.to_csv('../data/participants.csv', index=False)
+
+def dump_medals(data):
+    n_golds = 5
+    n_silvers = 15
+    n_bronzes = 40
+
+    participants = {}
+
+    for edition in data.values():
+        # it's too early. this should only happen with the last (current) year
+        if "nazionale" not in edition:
+            continue
+
+        # a list of contestants sorted from highest to lowest score
+        leaderboard = sorted(edition["nazionale"], key=lambda x: x["punteggio"], reverse=True)
+
+        for i, contestant in enumerate(leaderboard):
+            if i >= n_bronzes:
+                continue
+
+            key = (contestant["nome"], contestant["cognome"])
+            if key not in participants:
+                participants[key] = {
+                    "nome": contestant["nome"],
+                    "cognome": contestant["cognome"],
+                    "oro": 0,
+                    "argento": 0,
+                    "bronzo": 0
+                }
+            
+            medal = "oro" if i < n_golds else "argento" if i < n_silvers else "bronzo"
+            participants[key][medal] += 1
+    
+    # convert to list of medaled participants in order from best to worst
+    participants = list(participants.values())
+    participants.sort(key=lambda x: (x['oro'], x['argento'], x['bronzo']),  reverse=True)
+
+    # dump to json
+    with open("../data/medagliere.json", "w") as f:
+        json.dump(participants, f, indent="	")
+    
+    # dump to csv
+    dataframe = pd.DataFrame(participants)
+    dataframe.to_csv('../data/medagliere.csv', index=False)
+
+def main():
+    # fetch data for all editions
+    editions = fetch_editions()
+
+    # dump all data about all editions
+    dump_editions(editions)
+    
+    # dump general data about all participants
+    dump_participants(editions)
+
+    # dump data about anyone who ever won a medal, and what medal they got
+    dump_medals(editions)
 
 if __name__ == "__main__":
-    dump_data()
+    main()
