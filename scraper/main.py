@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from requests import *
 import requests
 import json
 import os
