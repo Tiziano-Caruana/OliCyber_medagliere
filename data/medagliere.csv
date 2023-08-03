@@ -1,0 +1,198 @@
+nome,cognome,oro,argento,bronzo,posizione_migliore
+Carlo,Collodel,2,0,0,1
+Tito,Sacchi,2,0,0,1
+Domingo,Dirutigliano,1,1,0,4
+Simone,Petroni,1,1,0,3
+Luigi,Loffredo,1,1,0,5
+Luca,Palumbo,1,0,0,3
+Eyad Lorenzo,Issa,1,0,0,4
+Antonio,Napolitano,1,0,0,5
+Giacomo,Arienti,0,2,0,9
+Gabriele,Maiolino,0,1,1,6
+Marco,Colletti,0,1,1,8
+Robert-Georgian,Nitu,0,1,0,6
+Matteo,Schiff,0,1,0,7
+Giovanni,Spadaccini,0,1,0,11
+Maxim,Ozolin,0,1,0,13
+Domenico,Rotolo,0,1,0,14
+Taulant,Arapi,0,1,0,15
+Fabio,Brunetto,0,1,0,15
+Gioele,Pettarini,0,1,0,13
+Mattia Lorenzo,Chiabrando,0,1,0,9
+Jacopo,Di Pumpo,0,1,0,7
+Alessandro,Zanier,0,1,0,11
+Salvatore,Abello,0,1,0,12
+Riccardo,Sulis,0,1,0,14
+Andrea,Salvatori,0,0,2,25
+Matteo,Mello,0,0,2,29
+Gabriele,Fazio,0,0,1,16
+Xuan Qiang,Huang,0,0,1,17
+Luigi,Fanuzzi,0,0,1,19
+Vincenzo,Turturro,0,0,1,20
+Jacopo,Martellotto,0,0,1,21
+Riccardo,Pizzaleo,0,0,1,22
+Matteo,Lotito,0,0,1,23
+Antonio,Sgalla,0,0,1,24
+Alessio,Doria,0,0,1,26
+Lorenzo,Bianco,0,0,1,27
+Alessandro,Vettor,0,0,1,29
+Alessio,Alchieri,0,0,1,30
+Stefano,Raviola,0,0,1,31
+Roberto,Chiesa,0,0,1,32
+Iacop,Hafiane,0,0,1,33
+Lorenzo,Bonora,0,0,1,34
+Raffaele,Grieco,0,0,1,36
+Kevin,Sciolti,0,0,1,37
+Francesco,Valentini,0,0,1,38
+Suqi,Chen,0,0,1,39
+Leonardo,Ferro,0,0,1,40
+Lorenzo,Frohmüller,0,0,1,25
+Andrea,Bissoli,0,0,1,33
+Alexandru,Nechita,0,0,1,37
+Tiziano,Radicchi,0,0,1,40
+Giacomo,Boschi,0,0,1,23
+Vincenzo,Gallina,0,0,1,24
+Emanuel,Mihali,0,0,1,30
+Giuseppe,Pasquariello,0,0,1,39
+Davide,Castellani,0,0,1,16
+Pimen Flavian,Dei,0,0,1,17
+Lorenzo,Cipolletti,0,0,1,18
+Romeo,Biancalani,0,0,1,19
+Mattia,Perfumo,0,0,1,20
+Riccardo,Azuni,0,0,1,21
+Andrea,Sinibaldi,0,0,1,22
+Tommaso,Ventafridda,0,0,1,27
+Mattia,Lembo,0,0,1,28
+Christian,Moccia,0,0,1,31
+John,Toniutti,0,0,1,32
+Oscar,Urselli,0,0,1,34
+Riccardo,Moiso,0,0,1,35
+Matteo Ferdinando,Emolo,0,0,1,36
+Anthony Gerardo,Giuliano,0,0,1,38
+Simone,Mazzacano,0,0,0,42
+Darius,Gavanescu,0,0,0,43
+Lorenzo,Reho,0,0,0,45
+Gennaro,De Gregorio,0,0,0,47
+Lorenzo,Ferrari,0,0,0,48
+Michele,Ghilardi,0,0,0,49
+Sanino,Fabio,0,0,0,51
+Patrick,Turricelli,0,0,0,53
+Alessio,Tosi,0,0,0,54
+Stefano,Cavalletti,0,0,0,55
+Simone,Visconti,0,0,0,56
+Raffaele,Feroce,0,0,0,57
+Carmine,Spiezia,0,0,0,58
+Tsvetelin,Aleksiev,0,0,0,59
+Francesco,Zambito,0,0,0,60
+Christian,Cecili,0,0,0,61
+Pierantonio,D'Agostino,0,0,0,62
+Lorenzo,Bellina,0,0,0,63
+Filippo,Barbieri,0,0,0,65
+Alessio,Pagano,0,0,0,66
+Ignazio,Spaccavento,0,0,0,67
+Alessandro,Melis,0,0,0,68
+Michele,Sechi,0,0,0,69
+Vincenzo,Petrillo,0,0,0,70
+Gabriele,Luciani,0,0,0,71
+Valentino,Badalucco,0,0,0,72
+Marco,Casali,0,0,0,73
+Gabriele,Marotta,0,0,0,74
+Gabriele,Tarantello,0,0,0,43
+Luca,Mascetti,0,0,0,76
+Samuele,Cistaro,0,0,0,77
+Mattia,Senni,0,0,0,78
+Tahir,Aliu,0,0,0,79
+Pietro,Foroni,0,0,0,80
+Giuseppe,Ruggiero,0,0,0,82
+Mirko,Cetorelli,0,0,0,84
+Diego,Cirillo,0,0,0,85
+Federico,Bartoli,0,0,0,86
+Emanuele Gaetano,Morales,0,0,0,88
+Giuseppe,Cisternino,0,0,0,89
+Gaetano,Picciariello,0,0,0,90
+Damiano,Nicolussi,0,0,0,50
+Leonardo Carlo,Conti,0,0,0,92
+Nicolò,Piccini,0,0,0,93
+Simone,Ravera,0,0,0,94
+Danilo,Manco,0,0,0,95
+Gioele,Carletti,0,0,0,96
+Lorenzo,De Giorgi,0,0,0,97
+Emanuele,Valeri,0,0,0,98
+Federico,Benoni,0,0,0,69
+Lorenzo,Galli,0,0,0,100
+Gianluca,Fusco,0,0,0,102
+Paolo,Buso,0,0,0,103
+Carmelo,Seminara,0,0,0,104
+Francesco,Conti,0,0,0,105
+Alberto,Vona,0,0,0,106
+Andrea,Consonni,0,0,0,107
+Diego,Satta,0,0,0,108
+Gabriele,Casula,0,0,0,109
+Carlo,Comotti,0,0,0,110
+Giampaolo,Boccardi,0,0,0,111
+Eduardo,Calista,0,0,0,112
+Davide Antonio,Miglietta,0,0,0,113
+Roberto,Pisu,0,0,0,114
+Alessandro,Martini,0,0,0,115
+An,Chen,0,0,0,116
+Antonio,Coltraro,0,0,0,117
+Neil Alessandro,Melgar Gomez,0,0,0,118
+Oscar,Forte,0,0,0,119
+Cristian,Nicosia,0,0,0,120
+Niccolò,Lucozzi,0,0,0,121
+Daniel,Tranchitella,0,0,0,122
+Leonardo,Forconi,0,0,0,123
+Gabriella Xenia,Talarico,0,0,0,124
+Andrea,Pastore,0,0,0,126
+Alessandro,Zanzi,0,0,0,127
+Mehdi,Zribi,0,0,0,128
+Manuel,Ubaldi,0,0,0,129
+Michele Vincenzo,Branca,0,0,0,130
+Pierluigi,De Palo,0,0,0,81
+Lorenzo,Massi,0,0,0,132
+Gabriele,Nonnis,0,0,0,133
+Cristian,Calabrese,0,0,0,134
+Giulio,Furlan,0,0,0,135
+Giovanni,Orzincolo,0,0,0,136
+Andrea,Tempesta,0,0,0,71
+Giovanni,Santini,0,0,0,41
+Gabriele,Muolo,0,0,0,42
+Giacomo,Gelormini,0,0,0,44
+Andrea,Gordanelli,0,0,0,45
+Tommaso,Abitante,0,0,0,46
+Valerio,Leonetti,0,0,0,47
+Mariano,Riefolo,0,0,0,49
+Eric,Aquilotti,0,0,0,52
+Stefano,Pavesi,0,0,0,53
+Davide,Cossidente,0,0,0,54
+Andrea,Leone,0,0,0,56
+Simone,Saya,0,0,0,57
+Matteo,Andreoni,0,0,0,58
+Andrea,Squitieri,0,0,0,60
+Francesco,De Benedittis,0,0,0,61
+Stefano,Liotti,0,0,0,62
+Davide,Zanaletti,0,0,0,64
+Pietro,Maretti,0,0,0,66
+Jacopo,Bonati,0,0,0,72
+Andrea,Sangiovanni,0,0,0,73
+Zaki,Pedio,0,0,0,74
+Marco,Beltrame,0,0,0,75
+Francesco,Aliprandi,0,0,0,76
+Massimo,Sanna,0,0,0,77
+Alessandro,Rizzo,0,0,0,78
+Alessandro,Tuillier,0,0,0,80
+Alessandro,Varotto,0,0,0,82
+Daniel,Fragrante,0,0,0,83
+Marco,Mazzeo,0,0,0,84
+Giacomo,Carbonara,0,0,0,85
+Giuseppe Karol,Ressa,0,0,0,86
+Michele Pio,Armenise,0,0,0,87
+Andrea,Pulga,0,0,0,88
+Chiara Luna,Cetojevic,0,0,0,89
+Thomas,Prenner,0,0,0,90
+Karim,Abbassi,0,0,0,91
+Luca,Papagni,0,0,0,92
+Francesco,Spada,0,0,0,93
+Pietro Giampaolo,Secchi,0,0,0,94
+Andrea,Laforgia,0,0,0,95
+Simone,Pinto,0,0,0,96
