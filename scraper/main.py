@@ -132,7 +132,7 @@ def dump_medals(data):
     
     # convert to list of medaled participants in order from best to worst
     participants = list(participants.values())
-    participants.sort(key=lambda x: (x['oro'], x['argento'], x['bronzo']),  reverse=True)
+    participants.sort(key=lambda x: (x['oro'], x['argento'], x['bronzo'], -x['posizione_migliore']), reverse=True)
 
     # dump to json
     with open("../data/medagliere.json", "w") as f:

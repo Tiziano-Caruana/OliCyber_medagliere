@@ -16,20 +16,20 @@
 		"posizione_migliore": 1
 	},
 	{
-		"nome": "Domingo",
-		"cognome": "Dirutigliano",
-		"oro": 1,
-		"argento": 1,
-		"bronzo": 0,
-		"posizione_migliore": 4
-	},
-	{
 		"nome": "Simone",
 		"cognome": "Petroni",
 		"oro": 1,
 		"argento": 1,
 		"bronzo": 0,
 		"posizione_migliore": 3
+	},
+	{
+		"nome": "Domingo",
+		"cognome": "Dirutigliano",
+		"oro": 1,
+		"argento": 1,
+		"bronzo": 0,
+		"posizione_migliore": 4
 	},
 	{
 		"nome": "Luigi",
@@ -104,38 +104,6 @@
 		"posizione_migliore": 7
 	},
 	{
-		"nome": "Giovanni",
-		"cognome": "Spadaccini",
-		"oro": 0,
-		"argento": 1,
-		"bronzo": 0,
-		"posizione_migliore": 11
-	},
-	{
-		"nome": "Maxim",
-		"cognome": "Ozolin",
-		"oro": 0,
-		"argento": 1,
-		"bronzo": 0,
-		"posizione_migliore": 13
-	},
-	{
-		"nome": "Domenico",
-		"cognome": "Rotolo",
-		"oro": 0,
-		"argento": 1,
-		"bronzo": 0,
-		"posizione_migliore": 14
-	},
-	{
-		"nome": "Taulant",
-		"cognome": "Arapi",
-		"oro": 0,
-		"argento": 1,
-		"bronzo": 0,
-		"posizione_migliore": 15
-	},
-	{
 		"nome": "Jacopo",
 		"cognome": "Di Pumpo",
 		"oro": 0,
@@ -150,6 +118,14 @@
 		"argento": 1,
 		"bronzo": 0,
 		"posizione_migliore": 9
+	},
+	{
+		"nome": "Giovanni",
+		"cognome": "Spadaccini",
+		"oro": 0,
+		"argento": 1,
+		"bronzo": 0,
+		"posizione_migliore": 11
 	},
 	{
 		"nome": "Alessandro",
@@ -168,6 +144,14 @@
 		"posizione_migliore": 12
 	},
 	{
+		"nome": "Maxim",
+		"cognome": "Ozolin",
+		"oro": 0,
+		"argento": 1,
+		"bronzo": 0,
+		"posizione_migliore": 13
+	},
+	{
 		"nome": "Gioele",
 		"cognome": "Pettarini",
 		"oro": 0,
@@ -176,12 +160,28 @@
 		"posizione_migliore": 13
 	},
 	{
+		"nome": "Domenico",
+		"cognome": "Rotolo",
+		"oro": 0,
+		"argento": 1,
+		"bronzo": 0,
+		"posizione_migliore": 14
+	},
+	{
 		"nome": "Riccardo",
 		"cognome": "Sulis",
 		"oro": 0,
 		"argento": 1,
 		"bronzo": 0,
 		"posizione_migliore": 14
+	},
+	{
+		"nome": "Taulant",
+		"cognome": "Arapi",
+		"oro": 0,
+		"argento": 1,
+		"bronzo": 0,
+		"posizione_migliore": 15
 	},
 	{
 		"nome": "Fabio",
@@ -216,172 +216,20 @@
 		"posizione_migliore": 16
 	},
 	{
-		"nome": "Xuan Qiang",
-		"cognome": "Huang",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 17
-	},
-	{
-		"nome": "Luigi",
-		"cognome": "Fanuzzi",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 19
-	},
-	{
-		"nome": "Vincenzo",
-		"cognome": "Turturro",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 20
-	},
-	{
-		"nome": "Jacopo",
-		"cognome": "Martellotto",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 21
-	},
-	{
-		"nome": "Riccardo",
-		"cognome": "Pizzaleo",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 22
-	},
-	{
-		"nome": "Matteo",
-		"cognome": "Lotito",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 23
-	},
-	{
-		"nome": "Antonio",
-		"cognome": "Sgalla",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 24
-	},
-	{
-		"nome": "Alessio",
-		"cognome": "Doria",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 26
-	},
-	{
-		"nome": "Lorenzo",
-		"cognome": "Bianco",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 27
-	},
-	{
-		"nome": "Alessandro",
-		"cognome": "Vettor",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 29
-	},
-	{
-		"nome": "Alessio",
-		"cognome": "Alchieri",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 30
-	},
-	{
-		"nome": "Stefano",
-		"cognome": "Raviola",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 31
-	},
-	{
-		"nome": "Roberto",
-		"cognome": "Chiesa",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 32
-	},
-	{
-		"nome": "Iacop",
-		"cognome": "Hafiane",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 33
-	},
-	{
-		"nome": "Lorenzo",
-		"cognome": "Bonora",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 34
-	},
-	{
-		"nome": "Raffaele",
-		"cognome": "Grieco",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 36
-	},
-	{
-		"nome": "Kevin",
-		"cognome": "Sciolti",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 37
-	},
-	{
-		"nome": "Francesco",
-		"cognome": "Valentini",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 38
-	},
-	{
-		"nome": "Suqi",
-		"cognome": "Chen",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 39
-	},
-	{
-		"nome": "Leonardo",
-		"cognome": "Ferro",
-		"oro": 0,
-		"argento": 0,
-		"bronzo": 1,
-		"posizione_migliore": 40
-	},
-	{
 		"nome": "Davide",
 		"cognome": "Castellani",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 16
+	},
+	{
+		"nome": "Xuan Qiang",
+		"cognome": "Huang",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 17
 	},
 	{
 		"nome": "Pimen Flavian",
@@ -400,12 +248,28 @@
 		"posizione_migliore": 18
 	},
 	{
+		"nome": "Luigi",
+		"cognome": "Fanuzzi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 19
+	},
+	{
 		"nome": "Romeo",
 		"cognome": "Biancalani",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 19
+	},
+	{
+		"nome": "Vincenzo",
+		"cognome": "Turturro",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 20
 	},
 	{
 		"nome": "Mattia",
@@ -416,12 +280,28 @@
 		"posizione_migliore": 20
 	},
 	{
+		"nome": "Jacopo",
+		"cognome": "Martellotto",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 21
+	},
+	{
 		"nome": "Riccardo",
 		"cognome": "Azuni",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 21
+	},
+	{
+		"nome": "Riccardo",
+		"cognome": "Pizzaleo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 22
 	},
 	{
 		"nome": "Andrea",
@@ -432,12 +312,28 @@
 		"posizione_migliore": 22
 	},
 	{
+		"nome": "Matteo",
+		"cognome": "Lotito",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 23
+	},
+	{
 		"nome": "Giacomo",
 		"cognome": "Boschi",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 23
+	},
+	{
+		"nome": "Antonio",
+		"cognome": "Sgalla",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 24
 	},
 	{
 		"nome": "Vincenzo",
@@ -456,6 +352,22 @@
 		"posizione_migliore": 25
 	},
 	{
+		"nome": "Alessio",
+		"cognome": "Doria",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 26
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Bianco",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 27
+	},
+	{
 		"nome": "Tommaso",
 		"cognome": "Ventafridda",
 		"oro": 0,
@@ -472,12 +384,36 @@
 		"posizione_migliore": 28
 	},
 	{
+		"nome": "Alessandro",
+		"cognome": "Vettor",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 29
+	},
+	{
+		"nome": "Alessio",
+		"cognome": "Alchieri",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 30
+	},
+	{
 		"nome": "Emanuel",
 		"cognome": "Mihali",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 30
+	},
+	{
+		"nome": "Stefano",
+		"cognome": "Raviola",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 31
 	},
 	{
 		"nome": "Christian",
@@ -488,6 +424,14 @@
 		"posizione_migliore": 31
 	},
 	{
+		"nome": "Roberto",
+		"cognome": "Chiesa",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 32
+	},
+	{
 		"nome": "John",
 		"cognome": "Toniutti",
 		"oro": 0,
@@ -496,12 +440,28 @@
 		"posizione_migliore": 32
 	},
 	{
+		"nome": "Iacop",
+		"cognome": "Hafiane",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 33
+	},
+	{
 		"nome": "Andrea",
 		"cognome": "Bissoli",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 33
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Bonora",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 34
 	},
 	{
 		"nome": "Oscar",
@@ -520,12 +480,28 @@
 		"posizione_migliore": 35
 	},
 	{
+		"nome": "Raffaele",
+		"cognome": "Grieco",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 36
+	},
+	{
 		"nome": "Matteo Ferdinando",
 		"cognome": "Emolo",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 36
+	},
+	{
+		"nome": "Kevin",
+		"cognome": "Sciolti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 37
 	},
 	{
 		"nome": "Alexandru",
@@ -536,6 +512,14 @@
 		"posizione_migliore": 37
 	},
 	{
+		"nome": "Francesco",
+		"cognome": "Valentini",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 38
+	},
+	{
 		"nome": "Anthony Gerardo",
 		"cognome": "Giuliano",
 		"oro": 0,
@@ -544,12 +528,28 @@
 		"posizione_migliore": 38
 	},
 	{
+		"nome": "Suqi",
+		"cognome": "Chen",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 39
+	},
+	{
 		"nome": "Giuseppe",
 		"cognome": "Pasquariello",
 		"oro": 0,
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 39
+	},
+	{
+		"nome": "Leonardo",
+		"cognome": "Ferro",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 1,
+		"posizione_migliore": 40
 	},
 	{
 		"nome": "Tiziano",
