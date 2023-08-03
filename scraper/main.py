@@ -145,15 +145,17 @@ def dump_medals(data):
 def main():
     # fetch data for all editions
     editions = fetch_editions()
+    with open("../frontend/dump.json", "w") as f:
+        json.dump(editions, f, indent="	")
 
     # dump all data about all editions
-    dump_editions(editions)
+    # dump_editions(editions)
     
     # dump general data about all participants
-    dump_participants(editions)
+    # dump_participants(editions)
 
     # dump data about anyone who ever won a medal, and what medal they got
-    dump_medals(editions)
+    # dump_medals(editions)
 
 if __name__ == "__main__":
     main()
