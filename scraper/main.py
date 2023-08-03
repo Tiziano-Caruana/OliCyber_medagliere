@@ -119,8 +119,14 @@ def dump_medals(data):
                     "cognome": contestant["cognome"],
                     "oro": 0,
                     "argento": 0,
-                    "bronzo": 0
+                    "bronzo": 0,
+                    "posizione_migliore": contestant["posizione"]
                 }
+            else:
+                participants[key]["posizione_migliore"] = min(
+                    participants[key]["posizione_migliore"],
+                    contestant["posizione"]
+                )
             
             medal = "oro" if i < n_golds else "argento" if i < n_silvers else "bronzo"
             participants[key][medal] += 1

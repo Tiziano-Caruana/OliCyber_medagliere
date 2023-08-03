@@ -9,6 +9,7 @@ async function main() {
 		const values = [
 			i+1,
 			`${person.nome} ${person.cognome}`,
+			person.posizione_migliore,
 			person.oro,
 			person.argento,
 			person.bronzo
