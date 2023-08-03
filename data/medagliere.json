@@ -558,5 +558,1021 @@
 		"argento": 0,
 		"bronzo": 1,
 		"posizione_migliore": 40
+	},
+	{
+		"nome": "Giovanni",
+		"cognome": "Santini",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 41
+	},
+	{
+		"nome": "Simone",
+		"cognome": "Mazzacano",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 42
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Muolo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 42
+	},
+	{
+		"nome": "Darius",
+		"cognome": "Gavanescu",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 43
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Tarantello",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 43
+	},
+	{
+		"nome": "Giacomo",
+		"cognome": "Gelormini",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 44
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Reho",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 45
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Gordanelli",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 45
+	},
+	{
+		"nome": "Tommaso",
+		"cognome": "Abitante",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 46
+	},
+	{
+		"nome": "Gennaro",
+		"cognome": "De Gregorio",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 47
+	},
+	{
+		"nome": "Valerio",
+		"cognome": "Leonetti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 47
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Ferrari",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 48
+	},
+	{
+		"nome": "Michele",
+		"cognome": "Ghilardi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 49
+	},
+	{
+		"nome": "Mariano",
+		"cognome": "Riefolo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 49
+	},
+	{
+		"nome": "Damiano",
+		"cognome": "Nicolussi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 50
+	},
+	{
+		"nome": "Sanino",
+		"cognome": "Fabio",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 51
+	},
+	{
+		"nome": "Eric",
+		"cognome": "Aquilotti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 52
+	},
+	{
+		"nome": "Patrick",
+		"cognome": "Turricelli",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 53
+	},
+	{
+		"nome": "Stefano",
+		"cognome": "Pavesi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 53
+	},
+	{
+		"nome": "Alessio",
+		"cognome": "Tosi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 54
+	},
+	{
+		"nome": "Davide",
+		"cognome": "Cossidente",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 54
+	},
+	{
+		"nome": "Stefano",
+		"cognome": "Cavalletti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 55
+	},
+	{
+		"nome": "Simone",
+		"cognome": "Visconti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 56
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Leone",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 56
+	},
+	{
+		"nome": "Raffaele",
+		"cognome": "Feroce",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 57
+	},
+	{
+		"nome": "Simone",
+		"cognome": "Saya",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 57
+	},
+	{
+		"nome": "Carmine",
+		"cognome": "Spiezia",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 58
+	},
+	{
+		"nome": "Matteo",
+		"cognome": "Andreoni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 58
+	},
+	{
+		"nome": "Tsvetelin",
+		"cognome": "Aleksiev",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 59
+	},
+	{
+		"nome": "Francesco",
+		"cognome": "Zambito",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 60
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Squitieri",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 60
+	},
+	{
+		"nome": "Christian",
+		"cognome": "Cecili",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 61
+	},
+	{
+		"nome": "Francesco",
+		"cognome": "De Benedittis",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 61
+	},
+	{
+		"nome": "Pierantonio",
+		"cognome": "D'Agostino",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 62
+	},
+	{
+		"nome": "Stefano",
+		"cognome": "Liotti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 62
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Bellina",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 63
+	},
+	{
+		"nome": "Davide",
+		"cognome": "Zanaletti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 64
+	},
+	{
+		"nome": "Filippo",
+		"cognome": "Barbieri",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 65
+	},
+	{
+		"nome": "Alessio",
+		"cognome": "Pagano",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 66
+	},
+	{
+		"nome": "Pietro",
+		"cognome": "Maretti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 66
+	},
+	{
+		"nome": "Ignazio",
+		"cognome": "Spaccavento",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 67
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Melis",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 68
+	},
+	{
+		"nome": "Michele",
+		"cognome": "Sechi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 69
+	},
+	{
+		"nome": "Federico",
+		"cognome": "Benoni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 69
+	},
+	{
+		"nome": "Vincenzo",
+		"cognome": "Petrillo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 70
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Luciani",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 71
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Tempesta",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 71
+	},
+	{
+		"nome": "Valentino",
+		"cognome": "Badalucco",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 72
+	},
+	{
+		"nome": "Jacopo",
+		"cognome": "Bonati",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 72
+	},
+	{
+		"nome": "Marco",
+		"cognome": "Casali",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 73
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Sangiovanni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 73
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Marotta",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 74
+	},
+	{
+		"nome": "Zaki",
+		"cognome": "Pedio",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 74
+	},
+	{
+		"nome": "Marco",
+		"cognome": "Beltrame",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 75
+	},
+	{
+		"nome": "Luca",
+		"cognome": "Mascetti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 76
+	},
+	{
+		"nome": "Francesco",
+		"cognome": "Aliprandi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 76
+	},
+	{
+		"nome": "Samuele",
+		"cognome": "Cistaro",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 77
+	},
+	{
+		"nome": "Massimo",
+		"cognome": "Sanna",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 77
+	},
+	{
+		"nome": "Mattia",
+		"cognome": "Senni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 78
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Rizzo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 78
+	},
+	{
+		"nome": "Tahir",
+		"cognome": "Aliu",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 79
+	},
+	{
+		"nome": "Pietro",
+		"cognome": "Foroni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 80
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Tuillier",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 80
+	},
+	{
+		"nome": "Pierluigi",
+		"cognome": "De Palo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 81
+	},
+	{
+		"nome": "Giuseppe",
+		"cognome": "Ruggiero",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 82
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Varotto",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 82
+	},
+	{
+		"nome": "Daniel",
+		"cognome": "Fragrante",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 83
+	},
+	{
+		"nome": "Mirko",
+		"cognome": "Cetorelli",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 84
+	},
+	{
+		"nome": "Marco",
+		"cognome": "Mazzeo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 84
+	},
+	{
+		"nome": "Diego",
+		"cognome": "Cirillo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 85
+	},
+	{
+		"nome": "Giacomo",
+		"cognome": "Carbonara",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 85
+	},
+	{
+		"nome": "Federico",
+		"cognome": "Bartoli",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 86
+	},
+	{
+		"nome": "Giuseppe Karol",
+		"cognome": "Ressa",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 86
+	},
+	{
+		"nome": "Michele Pio",
+		"cognome": "Armenise",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 87
+	},
+	{
+		"nome": "Emanuele Gaetano",
+		"cognome": "Morales",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 88
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Pulga",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 88
+	},
+	{
+		"nome": "Giuseppe",
+		"cognome": "Cisternino",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 89
+	},
+	{
+		"nome": "Chiara Luna",
+		"cognome": "Cetojevic",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 89
+	},
+	{
+		"nome": "Gaetano",
+		"cognome": "Picciariello",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 90
+	},
+	{
+		"nome": "Thomas",
+		"cognome": "Prenner",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 90
+	},
+	{
+		"nome": "Karim",
+		"cognome": "Abbassi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 91
+	},
+	{
+		"nome": "Leonardo Carlo",
+		"cognome": "Conti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 92
+	},
+	{
+		"nome": "Luca",
+		"cognome": "Papagni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 92
+	},
+	{
+		"nome": "Nicol\u00f2",
+		"cognome": "Piccini",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 93
+	},
+	{
+		"nome": "Francesco",
+		"cognome": "Spada",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 93
+	},
+	{
+		"nome": "Simone",
+		"cognome": "Ravera",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 94
+	},
+	{
+		"nome": "Pietro Giampaolo",
+		"cognome": "Secchi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 94
+	},
+	{
+		"nome": "Danilo",
+		"cognome": "Manco",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 95
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Laforgia",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 95
+	},
+	{
+		"nome": "Gioele",
+		"cognome": "Carletti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 96
+	},
+	{
+		"nome": "Simone",
+		"cognome": "Pinto",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 96
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "De Giorgi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 97
+	},
+	{
+		"nome": "Emanuele",
+		"cognome": "Valeri",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 98
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Galli",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 100
+	},
+	{
+		"nome": "Gianluca",
+		"cognome": "Fusco",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 102
+	},
+	{
+		"nome": "Paolo",
+		"cognome": "Buso",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 103
+	},
+	{
+		"nome": "Carmelo",
+		"cognome": "Seminara",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 104
+	},
+	{
+		"nome": "Francesco",
+		"cognome": "Conti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 105
+	},
+	{
+		"nome": "Alberto",
+		"cognome": "Vona",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 106
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Consonni",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 107
+	},
+	{
+		"nome": "Diego",
+		"cognome": "Satta",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 108
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Casula",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 109
+	},
+	{
+		"nome": "Carlo",
+		"cognome": "Comotti",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 110
+	},
+	{
+		"nome": "Giampaolo",
+		"cognome": "Boccardi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 111
+	},
+	{
+		"nome": "Eduardo",
+		"cognome": "Calista",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 112
+	},
+	{
+		"nome": "Davide Antonio",
+		"cognome": "Miglietta",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 113
+	},
+	{
+		"nome": "Roberto",
+		"cognome": "Pisu",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 114
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Martini",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 115
+	},
+	{
+		"nome": "An",
+		"cognome": "Chen",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 116
+	},
+	{
+		"nome": "Antonio",
+		"cognome": "Coltraro",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 117
+	},
+	{
+		"nome": "Neil Alessandro",
+		"cognome": "Melgar Gomez",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 118
+	},
+	{
+		"nome": "Oscar",
+		"cognome": "Forte",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 119
+	},
+	{
+		"nome": "Cristian",
+		"cognome": "Nicosia",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 120
+	},
+	{
+		"nome": "Niccol\u00f2",
+		"cognome": "Lucozzi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 121
+	},
+	{
+		"nome": "Daniel",
+		"cognome": "Tranchitella",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 122
+	},
+	{
+		"nome": "Leonardo",
+		"cognome": "Forconi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 123
+	},
+	{
+		"nome": "Gabriella Xenia",
+		"cognome": "Talarico",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 124
+	},
+	{
+		"nome": "Andrea",
+		"cognome": "Pastore",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 126
+	},
+	{
+		"nome": "Alessandro",
+		"cognome": "Zanzi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 127
+	},
+	{
+		"nome": "Mehdi",
+		"cognome": "Zribi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 128
+	},
+	{
+		"nome": "Manuel",
+		"cognome": "Ubaldi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 129
+	},
+	{
+		"nome": "Michele Vincenzo",
+		"cognome": "Branca",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 130
+	},
+	{
+		"nome": "Lorenzo",
+		"cognome": "Massi",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 132
+	},
+	{
+		"nome": "Gabriele",
+		"cognome": "Nonnis",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 133
+	},
+	{
+		"nome": "Cristian",
+		"cognome": "Calabrese",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 134
+	},
+	{
+		"nome": "Giulio",
+		"cognome": "Furlan",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 135
+	},
+	{
+		"nome": "Giovanni",
+		"cognome": "Orzincolo",
+		"oro": 0,
+		"argento": 0,
+		"bronzo": 0,
+		"posizione_migliore": 136
 	}
 ]

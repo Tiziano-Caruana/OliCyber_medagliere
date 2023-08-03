@@ -108,8 +108,6 @@ def dump_medals(data):
         leaderboard = sorted(edition["nazionale"], key=lambda x: x["punteggio"], reverse=True)
 
         for i, contestant in enumerate(leaderboard):
-            if i >= n_bronzes:
-                continue
 
             key = (contestant["nome"], contestant["cognome"])
             if key not in participants:
@@ -127,8 +125,8 @@ def dump_medals(data):
                     contestant["posizione"]
                 )
             
-            medal = "oro" if i < n_golds else "argento" if i < n_silvers else "bronzo"
-            participants[key][medal] += 1
+            medal = "oro" if i < n_golds else "argento" if i < n_silvers else "bronzo" if i < n_bronzes else None
+            if medal: participants[key][medal] += 1
     
     # convert to list of medaled participants in order from best to worst
     participants = list(participants.values())
