@@ -177,6 +177,7 @@ async function main() {
 		cells[2].textContent = `${person.piazzamento_migliore.posizione} (${person.piazzamento_migliore.anno})`;
 
 		const participations = document.createElement("ul");
+		person.partecipazioni.sort((a, b) => b.anno - a.anno);
 		for (const x of person.partecipazioni) {
 			const elem = document.createElement("li");
 			elem.textContent = x.anno.toString();
