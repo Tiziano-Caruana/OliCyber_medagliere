@@ -115,7 +115,7 @@ function extract_participants(dump: Dump): Participant[] {
 }
 
 async function main() {
-	const dump: Dump = await fetch("dump.json")
+	const dump: Dump = await fetch("data/dump.json")
 		.then(resp => resp.json());
 	
 	const participants = extract_participants(dump);
