@@ -23,6 +23,25 @@ interface DumpYear {
 
 type Dump = {[year: string]: DumpYear};
 
+enum Medal {
+	Gold = "oro",
+	Silver = "argento",
+	Bronze = "bronzo"
+};
+
+const N_GOLDS = 5;
+const N_SILVERS = 15;
+const N_BRONZES = 25;
+
+function calculate_medal(rank: number): Medal | undefined {
+	if (rank <= N_GOLDS)
+		return Medal.Gold;
+	if (rank <= N_SILVERS)
+		return Medal.Silver;
+	if (rank <= N_BRONZES)
+		return Medal.Bronze;
+}
+
 interface Participant {
 	nome: string;
 	cognome: string;
@@ -35,12 +54,12 @@ interface Participant {
 		posizione: number;
 		anno: number;
 	};
-	partecipazioni: {[year: number]: number}; // year: rank
+	partecipazioni: {
+		posizione: number,
+		anno: number,
+		medaglia: Medal | undefined
+	}[];
 };
-
-const N_GOLDS = 5;
-const N_SILVERS = 15;
-const N_BRONZES = 25;
 
 function extract_participants(dump: Dump): Participant[] {
 	const participants: {[id: string]: Participant} = {};
@@ -69,7 +88,13 @@ function extract_participants(dump: Dump): Participant[] {
 		for (const person of edition) {
 			const key = `${person.nome} ${person.cognome}`;
 			participants[key] ||= mk_placeholder_participant(person.nome, person.cognome);
-			participants[key].partecipazioni[year] = person.posizione;
+
+			const recap: Participant["partecipazioni"][0] = {
+				posizione: person.posizione,
+				anno: year,
+				medaglia: calculate_medal(person.posizione)
+			};
+			participants[key].partecipazioni.push(recap);
 			
 			if (participants[key].piazzamento_migliore.posizione == -1 ||
 				person.posizione < participants[key].piazzamento_migliore.posizione ||
@@ -82,12 +107,8 @@ function extract_participants(dump: Dump): Participant[] {
 					anno: year
 				};
 			
-			if (person.posizione <= N_GOLDS)
-				participants[key].medaglie.oro++;
-			else if (person.posizione <= N_SILVERS)
-				participants[key].medaglie.argento++;
-			else if (person.posizione <= N_BRONZES)
-				participants[key].medaglie.bronzo++;
+			if (recap.medaglia !== undefined)
+				participants[key].medaglie[recap.medaglia]++;
 		}
 	}
 
@@ -115,29 +136,62 @@ function extract_participants(dump: Dump): Participant[] {
 }
 
 async function main() {
-	const dump: Dump = await fetch("dump.json")
+	const dump: Dump = await fetch("../data/dump.json")
 		.then(resp => resp.json());
 	
 	const participants = extract_participants(dump);
 
+	const mk_medal_svg = (medal: Medal) => {
+		const size = 25;
+		const color_map = {
+			"oro": "#ffdb19",
+			"argento": "#c0c0c0",
+			"bronzo": "#cd7f32"
+		};
+
+		/* why createElementNS is needed:
+		- https://stackoverflow.com/questions/69518311/svg-appended-to-dom-with-js-but-not-visually-rendering
+		- https://stackoverflow.com/questions/8173217/createelement-vs-createelementns
+		- https://www.brightec.co.uk/blog/svg-wouldnt-render
+		*/
+		const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+		svg.setAttribute("width", `${size}px`);
+		svg.setAttribute("height", `${size}px`);
+		svg.setAttribute("viewBox", "0 0 1024 1024");
+		svg.setAttribute("fill", color_map[medal]);
+
+		const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+		path.setAttribute("d", "M547 304.2h-451l108.2-207.8h481.4z M685.6 754.4c0 95.656-77.544 173.2-173.2 173.2s-173.2-77.544-173.2-173.2c0-95.656 77.544-173.2 173.2-173.2s173.2 77.544 173.2 173.2z M697.8 598.2l230.2-294-138.6-207.8-276.6 415.6c64.6 0 125.4 25.4 171 71 5 5 9.6 10 14 15.2z M411.6 533.2l-107-161.2h-207.8l180.2 323c10.4-42.4 32.2-81.2 64-112.8 20.8-20.6 44.6-37.2 70.6-49z");
+		svg.append(path);
+
+		return svg;
+	}
+
 	const table = document.querySelector("#medals")!;
 	participants.forEach((person, i) => {
 		const row = document.createElement("tr");
-		
-		const values = [
-			i+1,
-			`${person.nome} ${person.cognome}`,
-			`${person.piazzamento_migliore.posizione} (${person.piazzamento_migliore.anno})`,
-			person.medaglie.oro,
-			person.medaglie.argento,
-			person.medaglie.bronzo
-		];
 
-		const cells = values.map(x => {
-			const cell = document.createElement("td");
-			cell.textContent = x.toString();
-			return cell;
-		})
+		const cells = Array.from({length: 7}, () => document.createElement("td"));
+		cells[0].textContent = (i+1).toString();
+		cells[1].textContent = `${person.nome} ${person.cognome}`;
+		cells[2].textContent = `${person.piazzamento_migliore.posizione} (${person.piazzamento_migliore.anno})`;
+
+		const participations = document.createElement("ul");
+		person.partecipazioni.sort((a, b) => b.anno - a.anno);
+		for (const x of person.partecipazioni) {
+			const elem = document.createElement("li");
+			elem.textContent = x.anno.toString();
+
+			if (x.medaglia !== undefined)
+				elem.append(mk_medal_svg(x.medaglia));
+
+			participations.append(elem);
+		}
+		cells[3].append(participations);
+
+		cells[4].textContent = (person.medaglie.oro).toString();
+		cells[5].textContent = (person.medaglie.argento).toString();
+		cells[6].textContent = (person.medaglie.bronzo).toString();
 
 		row.append(...cells);
 		table.append(row);

@@ -4,6 +4,42 @@ import json
 import os
 import pandas as pd
 
+def get_provinces_mapping() -> dict[str, str]:
+	"""
+	returns a dict[province_shorthand, region_name]
+	this is needed for stats about regions,
+	since the olicyber.it dump only shows participant provinces
+
+	the reason why the shortand (RM instead of Roma) is used,
+	is because there were a lot of edge cases and inconsistencies in province names
+	for example:
+	"barletta-andria-trani"	VS	"barletta andria trani"
+	"forlì"					VS	"forli"					VS "forli'"
+	"monza e brianza"		VS	"monza e della brianza"
+
+	whereas shorthands are unique and they can be pulled from participants' school codes
+	"""
+
+	url = "https://it.wikipedia.org/wiki/Province_d'Italia"
+
+	resp = requests.get(url)
+	html = resp.text
+	soup = BeautifulSoup(html, "html.parser")
+
+	table = soup.select("table.wikitable")[0]
+	province_rows = table.select("tbody tr")[1:-1] # the first and last rows are headings
+
+	mapping = {}
+
+	for row in province_rows:
+		cells = row.select("td")
+
+		shorthand = cells[1].text.strip()
+		region = cells[2].select_one("a").attrs["title"]
+		mapping[shorthand] = region
+
+	return mapping
+
 def fetch_editions():
 	"""
 	the data we want is hardcoded in a JS file with name `main-es2015.{hex stuff}.js`
@@ -142,10 +178,17 @@ def dump_medals(data):
 	dataframe.to_csv('../data/medagliere.csv', index=False)
 
 def main():
+	if not os.path.exists("../frontend/data"):
+		os.mkdir("../frontend/data")
+
 	# fetch data for all editions
 	editions = fetch_editions()
-	with open("../frontend/dump.json", "w") as f:
-		json.dump(editions, f)
+	with open("../frontend/data/dump.json", "w") as f:
+		json.dump(editions, f, indent="	")
+	
+	province_region_mapping = get_provinces_mapping()
+	with open("../frontend/data/provinces.json", "w") as f:
+		json.dump(province_region_mapping, f, indent="	")
 
 	# dump all data about all editions
    	# dump_editions(editions)

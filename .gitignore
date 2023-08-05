@@ -1,3 +1,2 @@
-frontend/main.js
-frontend/header.js
-frontend/dump.json
+frontend/**/*.js
+frontend/data

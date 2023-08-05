@@ -15,12 +15,13 @@
 		integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
 		crossorigin="anonymous"></script>
 
-	<script src="main.js"></script> <!-- doesn't seem to need `defer` -->
-	<script src="header.js" defer></script>
+	<script src="main/main.js"></script> <!-- doesn't seem to need `defer` -->
+	<script src="header/header.js" defer></script>
+	<link rel="stylesheet" href="main/main.css">
 </head>
 
 <body>
-	<div auto-header="header.html"></div>
+	<div auto-header="header/header.html"></div>
 	<div class="container mt-4">
 		<h1 class="text-center text-danger">Hall of fame</h1>
 
@@ -30,6 +31,7 @@
 					<th scope="col">#</th>
 					<th scope="col">Partecipante</th>
 					<th scope="col">Miglior posizione</th>
+					<th scope="col">Partecipazioni</th>
 					<th scope="col">Oro</th>
 					<th scope="col">Argento</th>
 					<th scope="col">Bronzo</th>
