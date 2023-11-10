@@ -125,11 +125,19 @@ function extract_participants(dump: Dump): Participant[] {
 	});
 	*/
 
-	// sort by best rank:
+	// sort by more golds, then more silvers, then more bronzes, then better best placement, then number of finals participations, then more recent best placement
 	as_list.sort((a, b) => {
+		if (a.medaglie.oro != b.medaglie.oro)
+			return b.medaglie.oro - a.medaglie.oro;
+		if (a.medaglie.argento != b.medaglie.argento)
+			return b.medaglie.argento - a.medaglie.argento;
+		if (a.medaglie.bronzo != b.medaglie.bronzo)
+			return b.medaglie.bronzo - a.medaglie.bronzo;
 		if (a.piazzamento_migliore.posizione != b.piazzamento_migliore.posizione)
 			return a.piazzamento_migliore.posizione - b.piazzamento_migliore.posizione;
-		return a.piazzamento_migliore.anno - b.piazzamento_migliore.anno;
+		if (a.partecipazioni.length != b.partecipazioni.length)
+			return b.partecipazioni.length - a.partecipazioni.length;
+		return b.piazzamento_migliore.anno - a.piazzamento_migliore.anno;
 	});
 
 	return as_list;
