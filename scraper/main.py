@@ -54,10 +54,10 @@ def fetch_editions():
 	# find the src of the target script
 	soup = BeautifulSoup(html, "html.parser")
 	scripts = soup.select("script")
-	target_script = next(filter(lambda tag: tag.attrs["src"].startswith("main"), scripts))
+	target_script = scripts[5].attrs["src"]
 
 	# get the script itself
-	script_url = "https://olicyber.it/" + target_script.attrs["src"]
+	script_url = "https://olicyber.it" + target_script
 	resp = requests.get(script_url)
 	code = resp.text
 
